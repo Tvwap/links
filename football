@@ -1,5 +1,5 @@
 [   {
-        "name": "CIGNALTV",
+        "name": "TV",
         "id": "1",
         "category": "sports",
         "logo": "Classic.png",
@@ -10,7 +10,7 @@
         "key": "a12a987fe725a40b6be95cd84b15f689",
         "name": "TSN 1",
         "id": "2",
-        "logo": "https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork3.png",
+        "logo": "https://brucetelecom.com/wp-content/uploads/2019/12/TSN-1.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
     }
     ,
@@ -19,7 +19,7 @@
         "key": "a8198d17bf9b0da77450fbb919a38b2d",
         "name": "TSN 3",
         "id": "3",
-        "logo": "https://brucetelecom.com/wp-content/uploads/2019/12/TSN-1.png",
+        "logo": "https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork3.png",
         "url": "https://cors-proxy.cooks.fyi/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd"
     },
 {
@@ -36,7 +36,7 @@
         "key": "829799ed534d11fcadeb4b192467e050",
         "name": "CIGNALTV",
         "id": "5",
-        "logo": "https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork4.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cignal.svg",
         "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd"
     }
 ]
