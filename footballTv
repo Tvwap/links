@@ -1,0 +1,34 @@
+[   {
+        "name": "",
+        "id": "101",
+        "category": "sports",
+        "logo": "Classic.png",
+        "url": ""
+    },
+{
+        "keyId": "e51aa21f2a0fef9aabc120dfb655b52f",
+        "key": "a12a987fe725a40b6be95cd84b15f689",
+        "name": "TSN 1",
+        "id": "1",
+        "logo": "https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork3.png",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
+    }
+    ,
+    {
+        "keyId": "f5c2b30eac11be1e8cdfc9585f5fe6af",
+        "key": "a8198d17bf9b0da77450fbb919a38b2d",
+        "name": "TSN 3",
+        "id": "1",
+        "logo": "https://brucetelecom.com/wp-content/uploads/2019/12/TSN-1.png",
+        "url": "https://cors-proxy.cooks.fyi/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd"
+    },
+{
+        "keyId": "c4088f5f265f9de50cffd80bf89308b7",
+        "key": "2c4d2239d96d532b4ec2050653611003",
+        "name": "TSN 4",
+        "id": "1",
+        "logo": "https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork4.png",
+        "url": "https://cors-proxy.cooks.fyi/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
+    }
+]
+    
