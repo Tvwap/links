@@ -1,6 +1,6 @@
 [   {
         "name": "CAZE TV",
-        "id": "8",
+        "id": "6",
         "category": "sports",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7z6T8htunrCuW1A2l6SnYALiS-nVsSMiVlx8Z1pr4L-wNGRe-VlgYblk&s=10",
         "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
@@ -8,7 +8,7 @@
 
 {
         "name": "WIN SPORTS",
-        "id": "7",
+        "id": "5",
         "category": "sports",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1280px-Win_Sports_nuevo_logo.svg.png",
         "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8"
@@ -17,7 +17,7 @@
         "keyId": "e51aa21f2a0fef9aabc120dfb655b52f",
         "key": "a12a987fe725a40b6be95cd84b15f689",
         "name": "TSN 1",
-        "id": "6",
+        "id": "4",
         "logo": "https://brucetelecom.com/wp-content/uploads/2019/12/TSN-1.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
     }
@@ -26,7 +26,7 @@
         "keyId": "f5c2b30eac11be1e8cdfc9585f5fe6af",
         "key": "a8198d17bf9b0da77450fbb919a38b2d",
         "name": "TSN 3",
-        "id": "5",
+        "id": "3",
         "logo": "https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork3.png",
         "url": "https://cors-proxy.cooks.fyi/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd"
     },
@@ -34,7 +34,7 @@
         "keyId": "c4088f5f265f9de50cffd80bf89308b7",
         "key": "2c4d2239d96d532b4ec2050653611003",
         "name": "TSN 4",
-        "id": "4",
+        "id": "2",
         "logo": "https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork4.png",
         "url": "https://cors-proxy.cooks.fyi/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
     },
