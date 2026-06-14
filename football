@@ -1,4 +1,15 @@
-[   {
+[  
+{
+        "keyId": "f6564ec2aee819046328a0e153be574d",
+        "key": "ff46a8a1031eb27ef22576a077c98ab7",
+        "name": "FOX SPORTS",
+        "id": "7",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-UKW7wEP9r-2q5mQlXgUQa_aovRv_1Y5c7QWk4RurQ&s=10",
+        "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd"
+    },
+
+
+{
         "name": "CAZE TV",
         "id": "6",
         "category": "sports",
@@ -28,7 +39,7 @@
         "name": "TSN 3",
         "id": "3",
         "logo": "https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork3.png",
-        "url": "https://cors-proxy.cooks.fyi/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd"
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd"
     },
 {
         "keyId": "c4088f5f265f9de50cffd80bf89308b7",
@@ -36,7 +47,7 @@
         "name": "TSN 4",
         "id": "2",
         "logo": "https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork4.png",
-        "url": "https://cors-proxy.cooks.fyi/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
     },
 
 {
