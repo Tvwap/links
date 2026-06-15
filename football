@@ -1,4 +1,14 @@
 [  
+
+{
+        "keyId": "a7d11d37a1f7611ee88d4db880171f32",
+        "key": "68f96d618b0b956b008c445896a25a79",
+        "name": "D SPORTS",
+        "id": "8",
+        "logo": "https://mir-s3-cdn-cf.behance.net/projects/404/3049c9206241453.Y3JvcCwxMDgwLDg0NCwwLDEwNA.jpg",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd"
+    }
+    ,
 {
         "keyId": "f6564ec2aee819046328a0e153be574d",
         "key": "ff46a8a1031eb27ef22576a077c98ab7",
@@ -25,12 +35,12 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8"
     },
 {
-        "keyId": "e51aa21f2a0fef9aabc120dfb655b52f",
-        "key": "a12a987fe725a40b6be95cd84b15f689",
+        "keyId": "7b37e4614fcee2ec2ff6e5900c2f798f",
+        "key": "f349a9c28c55c20b9a2c50af99d1fc76",
         "name": "TSN 1",
         "id": "4",
         "logo": "https://brucetelecom.com/wp-content/uploads/2019/12/TSN-1.png",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
+        "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
     }
     ,
     {
