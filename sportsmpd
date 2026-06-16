@@ -1,4 +1,12 @@
 [  
+{   "keyId": "433ffba670963e70857859a9dff4be04",
+        "key": "51ede3a821229fe81e71282c8eff80e3",
+        "name": "M6 Direct 50",
+        "id": "21",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUyzhzEPx7_-8UWNnOG0H36r7T49Lnm0eCXxPSpPJZA&s",
+        "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd"
+    }
+    ,
 
 {   "keyId": "adca25b8779e4168a0cd710f59f61ccf",
         "key": "be5383ed3cd8079f4ffe78ad067f476a",
