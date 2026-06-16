@@ -1,0 +1,18 @@
+[
+{
+        "name": "CAZE TV",
+        "id": "6",
+        "category": "sports",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7z6T8htunrCuW1A2l6SnYALiS-nVsSMiVlx8Z1pr4L-wNGRe-VlgYblk&s=10",
+        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
+    },
+
+{
+        "name": "WIN SPORTS",
+        "id": "5",
+        "category": "sports",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1280px-Win_Sports_nuevo_logo.svg.png",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8"
+    }
+
+]
