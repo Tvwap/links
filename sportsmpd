@@ -3,7 +3,7 @@
 {   "keyId": "adca25b8779e4168a0cd710f59f61ccf",
         "key": "be5383ed3cd8079f4ffe78ad067f476a",
         "name": "Tipik Tv",
-        "id": "19",
+        "id": "20",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/91z1211657888348.png",
         "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd"
     }
@@ -86,7 +86,7 @@
         "key": "e5e3fec67a1bb3472a2089c8a0a2557f",
         "name": "Premier Sports-2",
         "id": "12",
-        "logo": "https://storyblok.cdn.vmo2digital.co.uk/f/253875/608x360/41917809a6/premier_sports_logo_57035db16b.png/m/3840x0/filters:format(auto)quality(75)",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt1VsrwkysfLqm1DwjJ2dfH2cs47TTQRFmuA&amp;s",
         "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
     }
     ,
@@ -94,7 +94,7 @@
         "key": "d6c46d2d691056fbd091bf1f01b21a91",
         "name": "Premier Sports-1",
         "id": "11",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png/revision/latest/scale-to-width-down/732?cb=20260609185656",
+        "logo": "https://storyblok.cdn.vmo2digital.co.uk/f/253875/608x360/41917809a6/premier_sports_logo_57035db16b.png/m/3840x0/filters:format(auto)quality(75)",
         "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd"
     }
     ,
