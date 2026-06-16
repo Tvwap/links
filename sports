@@ -1,7 +1,16 @@
 [
+
+{
+        "name": "D SPORTS",
+        "id": "3",
+        "category": "sports",
+        "logo": "https://mir-s3-cdn-cf.behance.net/projects/404/3049c9206241453.Y3JvcCwxMDgwLDg0NCwwLDEwNA.jpg",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8"
+    },
+
 {
         "name": "CAZE TV",
-        "id": "6",
+        "id": "2",
         "category": "sports",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7z6T8htunrCuW1A2l6SnYALiS-nVsSMiVlx8Z1pr4L-wNGRe-VlgYblk&s=10",
         "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
@@ -9,7 +18,7 @@
 
 {
         "name": "WIN SPORTS",
-        "id": "5",
+        "id": "1",
         "category": "sports",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1280px-Win_Sports_nuevo_logo.svg.png",
         "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8"
