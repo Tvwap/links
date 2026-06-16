@@ -1,5 +1,90 @@
 [
 
+    {
+        "name": "---FIFA(26 FOX)---",
+        "id": "381",
+        "category": "Sports",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/960px-Fox_Broadcasting_Company_logo_%282019%29.svg.png",
+        "url": "http://84.17.50.102/fox/index.m3u8"
+    },
+    {
+        "name": "---FIFA(Bein Sports 1 Max)---",
+        "id": "382",
+        "category": "Sports",
+        "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+        "url": "http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/146122.ts"
+    },
+    {
+        "name": "---FIFA(Bein Sports Direct)---",
+        "id": "383",
+        "category": "Sports",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+    },
+    {
+        "name": "---FIFA(D Sports)---",
+        "id": "384",
+        "category": "Sports",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/DSports_logo_2022.svg",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8"
+    },
+    {
+        "name": "---FIFA(Dazn Direct)---",
+        "id": "385",
+        "category": "Sports",
+        "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8"
+    },
+    {
+        "name": "---FIFA(TNT Sports Premium)---",
+        "id": "386",
+        "category": "Sports",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2f/TNT_Sports_Premium_24.svg",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8"
+    },
+    {
+        "name": "---FIFA(Tudn Sports)---",
+        "id": "387",
+        "category": "Sports",
+        "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8"
+    },
+    {
+        "name": "---FIFA(Tv Azteca)---",
+        "id": "388",
+        "category": "Sports",
+        "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8"
+    },
+    {
+        "name": "---FIFA(TVP Sports)---",
+        "id": "389",
+        "category": "Sports",
+        "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8"
+    },
+    {
+        "name": "---FIFA(TYC Sports)---",
+        "id": "390",
+        "category": "Sports",
+        "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8"
+    },
+    {
+        "name": "---FIFA(Unite8 Sports 2 HD)---",
+        "id": "391",
+        "category": "Sports",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4e/Screenshot_2026-06-10_002235.png",
+        "url": "http://212.102.34.8:9080/AndFlixHD/video.m3u8"
+    },
+    {
+        "name": "FB | FIFA+",
+        "id": "404",
+        "category": "Sports",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png",
+        "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8"
+    },
+
 {
         "name": "D SPORTS",
         "id": "3",
