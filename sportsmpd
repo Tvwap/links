@@ -1,4 +1,33 @@
 [  
+
+{   "keyId": "adca25b8779e4168a0cd710f59f61ccf",
+        "key": "be5383ed3cd8079f4ffe78ad067f476a",
+        "name": "Tipik Tv",
+        "id": "19",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/91z1211657888348.png",
+        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd"
+    }
+    ,
+
+{   "keyId": "ce7ab3022e753307997f58afe001bac4",
+        "key": "72d631a66e635c60829a0fe7705516c1",
+        "name": "Telemundo",
+        "id": "19",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Telemundo_52_%282018%29.svg",
+        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd"
+    }
+    ,
+
+
+{   "keyId": "0ad4080cdff8c60b1233b22087f0b340",
+        "key": "285f129c5eca01dd08a5d5a14ad801c8",
+        "name": "Fussballtv",
+        "id": "19",
+        "logo": "https://www.fussballnationalmannschaft.net/wp-content/uploads/2025/12/sportdigital.png",
+        "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd"
+    }
+    ,
+
 {   "keyId": "2a8c2d5088377f51f825d871e568be19",
         "key": "eb5a8db64ca1992389672edb9447c711",
         "name": "Canal Sports",
