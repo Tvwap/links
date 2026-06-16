@@ -1,5 +1,39 @@
 [  
 
+{   "keyId": "1444f4235529f183f0a5a486befe9cdb",
+        "key": "e5e3fec67a1bb3472a2089c8a0a2557f",
+        "name": "Premier Sports-2",
+        "id": "14",
+        "logo": "https://storyblok.cdn.vmo2digital.co.uk/f/253875/608x360/41917809a6/premier_sports_logo_57035db16b.png/m/3840x0/filters:format(auto)quality(75)",
+        "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
+    }
+    ,
+     {   "keyId": "893bc63340876605f52886a42e0ccce5",
+        "key": "d6c46d2d691056fbd091bf1f01b21a91",
+        "name": "Premier Sports-1",
+        "id": "13",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png/revision/latest/scale-to-width-down/732?cb=20260609185656",
+        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd"
+    }
+    ,
+     {   "keyId": "dc69b6159a0f9f0a4e03b3ff91cbacd5",
+        "key": "d0dcbcd7723bc40df0bf34c9c092d51f",
+        "name": "Fubo Sports",
+        "id": "12",
+        "logo": "https://assets.goal.com/images/v3/blt5c8016537c5918ec/fubo%20sports%20network%20logo%20(1).jpg?auto=webp&amp;format=pjpg&amp;width=3840&amp;quality=60",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd"
+    }
+    ,
+
+     {   "keyId": "d9623774ac5c8c351aafe97c5fe70267",
+        "key": "5164e6d05164a2d65fa8fcc962aa4861",
+        "name": "CBS Sports",
+        "id": "11",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png/revision/latest/scale-to-width-down/732?cb=20260609185656",
+        "url": "https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
+    }
+    ,
+
      {   "keyId": "893bc63340876605f52886a42e0ccce5",
         "key": "d6c46d2d691056fbd091bf1f01b21a91",
         "name": "UNITED SPORTS 2 HD",
