@@ -1,4 +1,23 @@
 [  
+
+{
+        "name": "ZDF GERMAN HD",
+        "id": "23",
+        "category": "FIFA WC 2026 LIVE",
+        "logo": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",
+        "url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+        "keyId": "c1a0ac1044a433d0856ccdc08f245084",
+        "key": "7f0e8800a6d63d7915ac181bb88ce813"
+    },
+    {
+        "name": "SPORZA SPORTS",
+        "id": "22",
+        "category": "FIFA WC 2026 LIVE",
+        "logo": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",
+        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "keyId": "893bc63340876605f52886a42e0ccce5",
+        "key": "d6c46d2d691056fbd091bf1f01b21a91"
+    },
 {   "keyId": "433ffba670963e70857859a9dff4be04",
         "key": "51ede3a821229fe81e71282c8eff80e3",
         "name": "M6 Direct 50",
