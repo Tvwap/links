@@ -1,5 +1,15 @@
 [  
 
+
+{
+        "name": "CT SPORTS CZ",
+        "id": "24",
+        "category": "FIFA WC 2026 LIVE0",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXjmoLhGnjXvK5g7otyKm75r-8rjWeGINmSQSGkRsWqQ15nagJFRHmnbo&s=10",
+        "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+        "keyId": "11223344556677889900112233445566",
+        "key": "4b80724d0ef86bcb2c21f7999d67739d"
+    },
 {
         "name": "ZDF GERMAN HD",
         "id": "23",
