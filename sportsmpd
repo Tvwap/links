@@ -2,6 +2,15 @@
 
 
 {
+        "keyId": "e8ae44faa1e73658bfe725dec8204259",
+        "key": "d90e4519b41352e2791370dfcc20406b",
+        "name": "W9 SPORTS",
+        "id": "4",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR64TGmvtf1lzPLMuIhi_lFUfnz7S8KjDeTq0BGOAVhjWpplIKsSIl59k&s=10",
+        "url": "https://edge-cf-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00_N2/dash-short-hd.mpd"
+    }
+    ,
+{
         "name": "CT SPORTS CZ",
         "id": "24",
         "category": "FIFA WC 2026 LIVE0",
@@ -197,6 +206,15 @@
 
 
 
+{
+        "keyId": "14eeabf30c14b7fbf3008c03099ce011",
+        "key": "17d2ac8dbc5429bd70af3433aa12158d",
+        "name": "TSN 1",
+        "id": "04",
+        "logo": "https://brucetelecom.com/wp-content/uploads/2019/12/TSN-1.png",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
+    }
+    ,
 
 {
         "keyId": "7b37e4614fcee2ec2ff6e5900c2f798f",
