@@ -135,27 +135,27 @@
 
 
 
-{   "keyId": "1444f4235529f183f0a5a486befe9cdb",
-        "key": "e5e3fec67a1bb3472a2089c8a0a2557f",
+{   "keyId": "",
+        "key": "",
         "name": "Premier Sports-2",
         "id": "12",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt1VsrwkysfLqm1DwjJ2dfH2cs47TTQRFmuA&amp;s",
-        "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
+        "url": ""
     }
     ,
-     {   "keyId": "893bc63340876605f52886a42e0ccce5",
-        "key": "d6c46d2d691056fbd091bf1f01b21a91",
+     {   "keyId": "",
+        "key": "",
         "name": "Premier Sports-1",
         "id": "11",
         "logo": "https://storyblok.cdn.vmo2digital.co.uk/f/253875/608x360/41917809a6/premier_sports_logo_57035db16b.png/m/3840x0/filters:format(auto)quality(75)",
-        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd"
+        "url": ""
     }
     ,
      {   "keyId": "dc69b6159a0f9f0a4e03b3ff91cbacd5",
         "key": "d0dcbcd7723bc40df0bf34c9c092d51f",
         "name": "Fubo Sports",
         "id": "10",
-        "logo": "https://assets.goal.com/images/v3/blt5c8016537c5918ec/fubo%20sports%20network%20logo%20(1).jpg?auto=webp&amp;format=pjpg&amp;width=3840&amp;quality=60",
+        "logo": "https://assets.goal.com/images/v3/blt5c8016537c5918ec/fubo%20sports%20network%20logo%20(1).jpg",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd"
     }
     ,
@@ -169,39 +169,39 @@
     }
     ,
 
-     {   "keyId": "893bc63340876605f52886a42e0ccce5",
-        "key": "d6c46d2d691056fbd091bf1f01b21a91",
+     {   "keyId": "",
+        "key": "",
         "name": "UNITED SPORTS 2 HD",
         "id": "8",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png/revision/latest/scale-to-width-down/732?cb=20260609185656",
-        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd"
+        "url": ""
     }
     ,
 {
-        "keyId": "f6564ec2aee819046328a0e153be574d",
-        "key": "ff46a8a1031eb27ef22576a077c98ab7",
+        "keyId": "",
+        "key": "",
         "name": "UNITED SPORTS 1 HD",
         "id": "7",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png/revision/latest/scale-to-width-down/648?cb=20260609181225",
+        "logo": "",
         "url": "https://iptv.jio.com/livetv/data/Star_Utsav.mpd"
     }
     ,
 {
-        "keyId": "a7d11d37a1f7611ee88d4db880171f32",
-        "key": "68f96d618b0b956b008c445896a25a79",
+        "keyId": "",
+        "key": "",
         "name": "D SPORTS",
         "id": "6",
         "logo": "https://mir-s3-cdn-cf.behance.net/projects/404/3049c9206241453.Y3JvcCwxMDgwLDg0NCwwLDEwNA.jpg",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd"
+        "url": ""
     }
     ,
 {
-        "keyId": "f6564ec2aee819046328a0e153be574d",
-        "key": "ff46a8a1031eb27ef22576a077c98ab7",
+        "keyId": "",
+        "key": "",
         "name": "FOX SPORTS",
         "id": "5",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-UKW7wEP9r-2q5mQlXgUQa_aovRv_1Y5c7QWk4RurQ&s=10",
-        "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd"
+        "url": ""
     },
 
 
@@ -210,36 +210,29 @@
         "keyId": "14eeabf30c14b7fbf3008c03099ce011",
         "key": "17d2ac8dbc5429bd70af3433aa12158d",
         "name": "TSN 1",
-        "id": "04",
+        "id": "4",
         "logo": "https://brucetelecom.com/wp-content/uploads/2019/12/TSN-1.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
     }
     ,
 
-{
-        "keyId": "7b37e4614fcee2ec2ff6e5900c2f798f",
-        "key": "f349a9c28c55c20b9a2c50af99d1fc76",
-        "name": "TSN 1",
-        "id": "4",
-        "logo": "https://brucetelecom.com/wp-content/uploads/2019/12/TSN-1.png",
-        "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
-    }
-    ,
+
+    
     {
-        "keyId": "f5c2b30eac11be1e8cdfc9585f5fe6af",
-        "key": "a8198d17bf9b0da77450fbb919a38b2d",
+        "keyId": "",
+        "key": "",
         "name": "TSN 3",
         "id": "3",
         "logo": "https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork3.png",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd"
+        "url": ""
     },
 {
-        "keyId": "c4088f5f265f9de50cffd80bf89308b7",
-        "key": "2c4d2239d96d532b4ec2050653611003",
+        "keyId": "",
+        "key": "",
         "name": "TSN 4",
         "id": "2",
         "logo": "https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork4.png",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
+        "url": ""
     },
 
 {
