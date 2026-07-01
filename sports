@@ -1,12 +1,39 @@
 [
-
+{
+        "name": "Fifa ++",
+        "id": "15",
+        "category": "Sports",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg",
+        "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
+    },
+{
+        "name": "Euro Sports",
+        "id": "14",
+        "category": "Sports",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg",
+        "url": "https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8"
+    },
+{
+        "name": "beIN Sports 1",
+        "id": "13",
+        "category": "Sports",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg",
+        "url": "https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8"
+    },
+{
+        "name": "beIN Sports 4",
+        "id": "12",
+        "category": "Sports",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg",
+        "url": "https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8"
+    },
     
     {
-        "name": "Bein Sports",
+        "name": "beIN Sports Xtra",
         "id": "11",
         "category": "Sports",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+        "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
     },
     
     {
@@ -49,7 +76,7 @@
         "id": "5",
         "category": "Sports",
         "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8"
+        "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
     },
     
     {
