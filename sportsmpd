@@ -37,12 +37,12 @@
         "keyId": "893bc63340876605f52886a42e0ccce5",
         "key": "d6c46d2d691056fbd091bf1f01b21a91"
     },
-{   "keyId": "433ffba670963e70857859a9dff4be04",
-        "key": "51ede3a821229fe81e71282c8eff80e3",
+{   "keyId": "0182ed7af02734ecb17a2f55eec98f99",
+        "key": "60346785b1095596de621031e9daf3ec",
         "name": "M6 Direct 50",
         "id": "21",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUyzhzEPx7_-8UWNnOG0H36r7T49Lnm0eCXxPSpPJZA&s",
-        "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd"
+        "url": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd"
     }
     ,
 
