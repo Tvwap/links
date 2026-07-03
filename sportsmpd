@@ -135,12 +135,12 @@
 
 
 
-{   "keyId": "",
-        "key": "",
-        "name": "Premier Sports-2",
+{   "keyId": "f836853d8eac19446ed9535f5fc568b1",
+        "key": "b3bc5ef00602b29abac7e482d3d9fbf3",
+        "name": "Caze Tv",
         "id": "12",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt1VsrwkysfLqm1DwjJ2dfH2cs47TTQRFmuA&amp;s",
-        "url": ""
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd"
     }
     ,
      {   "keyId": "",
@@ -187,21 +187,21 @@
     }
     ,
 {
-        "keyId": "",
-        "key": "",
+        "keyId": "1223d5105392cabf1bb9c2c1fdf6539a",
+        "key": "340b409f4b8f78a343e0363a7938df38",
         "name": "D SPORTS",
         "id": "6",
         "logo": "https://mir-s3-cdn-cf.behance.net/projects/404/3049c9206241453.Y3JvcCwxMDgwLDg0NCwwLDEwNA.jpg",
-        "url": ""
+        "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd"
     }
     ,
 {
-        "keyId": "",
-        "key": "",
+        "keyId": "f6564ec2aee819046328a0e153be574d",
+        "key": "ff46a8a1031eb27ef22576a077c98ab7",
         "name": "FOX SPORTS",
         "id": "5",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-UKW7wEP9r-2q5mQlXgUQa_aovRv_1Y5c7QWk4RurQ&s=10",
-        "url": ""
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd"
     },
 
 
