@@ -1,0 +1,10 @@
+{
+  "ch": {
+    "SETHD":"2011671","SABHD":"2011749","SonyMarathi":"2011740","SonyPalSD":"2011741",
+    "SonyAathSD":"2011641","SonyYaySD":"2011746","SonyMaxhd":"2011670","SonyMaxSD":"2011745",
+    "SonyWah":"2011906","MAX2":"2011908","PIXHD":"2011748","TEN1HD":"2011747","TEN1SD":"2011739",
+    "TEN2HD":"2020434","TEN2SD":"2020590","TEN3HD":"2020591","TEN3SD":"2020592","ten4hd":"2020589",
+    "ten4sd":"2020437","SONYSIXHD":"2020593","SONYSIXSD":"2020594","SonyBBCEarthHD":"2011907"
+  },
+  "m3": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=208208,RESOLUTION=256x144\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_108.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=356224,RESOLUTION=384x216\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_224.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=596112,RESOLUTION=512x288\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_412.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=917664,RESOLUTION=640x360\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_664.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1218800,RESOLUTION=960x540\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_900.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1799600,RESOLUTION=1280x720\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_1300.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2692800,RESOLUTION=1280x720\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_2000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=4571600,RESOLUTION=1920x1080\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_3500.m3u8"
+}
