@@ -1,7 +1,15 @@
 [
 
+
 {
-        "name": "fancode SPORTS",
+        "name": "Zee Sports",
+        "id": "103",
+        "category": "sports",
+        "logo": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg",
+        "url": "https://tv1.beyondtaxconsultants.com/api/proxy?url=https://kaizokutv.me/prox/fan-prox.php?url=https://ranapkz.site/JOIN@RANAPK33/play.m3u8?id=373312"
+    },
+{
+        "name": "fancode",
         "id": "102",
         "category": "sports",
         "logo": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg",
