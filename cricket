@@ -2,12 +2,17 @@
 
 
 {
+        "name": "T Sports",
+        "id": "104",
+        "category": "sports",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJzpZAcltkRfl83OhkAi9zQDG3nYvrGYXBcNQVslMHGh9_mz0rc43oPBd&s=10",
+"url":"https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?nocache=1783826412104"},
+{
         "name": "Zee Sports",
         "id": "103",
         "category": "sports",
-        "logo": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg",
-        "url":"https://tv2.beyondtaxconsultants.com/api/proxy?url=https://kaizokutv.me/prox/fan-prox.php?url=https://ranapkz.site/JOIN@RANAPK33/play.m3u8?id=373312"
-    },
+        "logo": "https://img-cdn.publive.online/fit-in/1200x675/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg",
+"url":"https://tv2.beyondtaxconsultants.com/api/proxy?url=https://kaizokutv.me/prox/fan-prox.php?url=https://ranapkz.site/JOIN@RANAPK33/play.m3u8?id=373312"},
 {
         "name": "fancode",
         "id": "102",
