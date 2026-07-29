@@ -1,41 +1,60 @@
-========================================
-1. SET HD
-========================================
-https://stream.ottplus.live/live/sony_hd/live/sony_hd_720/chunks.m3u8
-https://stream.ottplus.live/live/set_hd/live/set_hd_720/chunks.m3u8
-https://stream.ottplus.live/live/sethd/live/sethd_720/chunks.m3u8
-
-========================================
-2. SAB HD
-========================================
-https://stream.ottplus.live/live/sab_hd/live/sab_hd_720/chunks.m3u8
-https://stream.ottplus.live/live/sony_sab_hd/live/sony_sab_hd_720/chunks.m3u8
-https://stream.ottplus.live/live/sabhd/live/sabhd_720/chunks.m3u8
-
-========================================
-3. Sony Max HD
-========================================
-https://stream.ottplus.live/live/sony_max_hd/live/sony_max_hd_720/chunks.m3u8
-https://stream.ottplus.live/live/sonymax_hd/live/sonymax_hd_720/chunks.m3u8
-https://stream.ottplus.live/live/max_hd/live/max_hd_720/chunks.m3u8
-
-========================================
-4. Sony Pix HD
-========================================
-https://stream.ottplus.live/live/sony_pix_hd/live/sony_pix_hd_720/chunks.m3u8
-https://stream.ottplus.live/live/pix_hd/live/pix_hd_720/chunks.m3u8
-https://stream.ottplus.live/live/pixhd/live/pixhd_720/chunks.m3u8
-
-========================================
-5. Sony Ten 2 HD
-========================================
-https://stream.ottplus.live/live/ten_2_hd/live/ten_2_hd_720/chunks.m3u8
-https://stream.ottplus.live/live/ten2_hd/live/ten2_hd_720/chunks.m3u8
-https://stream.ottplus.live/live/ten2hd/live/ten2hd_720/chunks.m3u8
-
-========================================
-6. Sony Six HD
-========================================
-https://stream.ottplus.live/live/sony_six_hd/live/sony_six_hd_720/chunks.m3u8
-https://stream.ottplus.live/live/six_hd/live/six_hd_720/chunks.m3u8
-https://stream.ottplus.live/live/sixhd/live/sixhd_720/chunks.m3u8
+आपके दिए गए चैनलों के URL पैटर्न के आधार पर, यहाँ विभिन्न खेल और मनोरंजन चैनलों के संभावित .m3u8 स्ट्रीम लिंक्स की लिस्ट (सीरीज़) नीचे दी गई है।
+क्योंकि अलग-अलग नेटवर्क या प्रोवाइडर के फ़ोल्डर स्ट्रक्चर थोड़े भिन्न हो सकते हैं, इसलिए नीचे 4-5 अलग-अलग पैटर्न/ऑप्शन दिए गए हैं। आप इन्हें चेक कर सकते हैं:
+### **Option 1: आपके पैटर्न पर आधारित अन्य स्पोर्ट्स/मनोरंजन चैनल्स (720p ABR)**
+ * **Sony Ten 2 HD:**
+   [https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8](https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8)
+ * **Sony Ten 3 HD:**
+   [https://stream.ottplus.live/live/ten_3_hd_abr/live/ten_3_hd_720/chunks.m3u8](https://stream.ottplus.live/live/ten_3_hd_abr/live/ten_3_hd_720/chunks.m3u8)
+ * **Sony Ten 4 HD:**
+   [https://stream.ottplus.live/live/ten_4_hd_abr/live/ten_4_hd_720/chunks.m3u8](https://stream.ottplus.live/live/ten_4_hd_abr/live/ten_4_hd_720/chunks.m3u8)
+ * **Sony Six HD:**
+   [https://stream.ottplus.live/live/sony_six_hd_abr/live/sony_six_hd_720/chunks.m3u8](https://stream.ottplus.live/live/sony_six_hd_abr/live/sony_six_hd_720/chunks.m3u8)
+ * **Sony BBC Earth HD:**
+   [https://stream.ottplus.live/live/sony_earth_hd_abr/live/sony_earth_hd_720/chunks.m3u8](https://stream.ottplus.live/live/sony_earth_hd_abr/live/sony_earth_hd_720/chunks.m3u8)
+ * **Star Sports 1 HD:**
+   [https://stream.ottplus.live/live/star_sports_1_hd_abr/live/star_sports_1_hd_720/chunks.m3u8](https://stream.ottplus.live/live/star_sports_1_hd_abr/live/star_sports_1_hd_720/chunks.m3u8)
+ * **Star Sports 2 HD:**
+   [https://stream.ottplus.live/live/star_sports_2_hd_abr/live/star_sports_2_hd_720/chunks.m3u8](https://stream.ottplus.live/live/star_sports_2_hd_abr/live/star_sports_2_hd_720/chunks.m3u8)
+ * **Star Sports Select 1 HD:**
+   [https://stream.ottplus.live/live/star_select_1_hd_abr/live/star_select_1_hd_720/chunks.m3u8](https://stream.ottplus.live/live/star_select_1_hd_abr/live/star_select_1_hd_720/chunks.m3u8)
+ * **Sports18 1 HD:**
+   [https://stream.ottplus.live/live/sports18_1_hd_abr/live/sports18_1_hd_720/chunks.m3u8](https://stream.ottplus.live/live/sports18_1_hd_abr/live/sports18_1_hd_720/chunks.m3u8)
+### **Option 2: SD / 1080p क्वालिटी वेरिएशन पैटर्न**
+अगर 720p वाला न चले, तो 1080p या SD रिज़ॉल्यूशन के लिए ये पैटर्न इस्तेमाल हो सकते हैं:
+ * **Sony Ten 2 HD (1080p):**
+   [https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_1080/chunks.m3u8](https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_1080/chunks.m3u8)
+ * **Sony Ten 3 HD (1080p):**
+   [https://stream.ottplus.live/live/ten_3_hd_abr/live/ten_3_hd_1080/chunks.m3u8](https://stream.ottplus.live/live/ten_3_hd_abr/live/ten_3_hd_1080/chunks.m3u8)
+ * **Sony Ten 2 (SD):**
+   [https://stream.ottplus.live/live/ten_2_sd_abr/live/ten_2_sd_480/chunks.m3u8](https://stream.ottplus.live/live/ten_2_sd_abr/live/ten_2_sd_480/chunks.m3u8)
+ * **Sony Ten 1 (SD):**
+   [https://stream.ottplus.live/live/ten_1_sd_abr/live/ten_1_sd_480/chunks.m3u8](https://stream.ottplus.live/live/ten_1_sd_abr/live/ten_1_sd_480/chunks.m3u8)
+### **Option 3: नामकरण का वैकल्पिक पैटर्न (बिना _hd सफ़िक्स के)**
+कुछ सर्वर्स में hd शब्द केवल अंदर वाले पाथ में होता है:
+ * **Sony Ten 2:**
+   [https://stream.ottplus.live/live/ten_2_abr/live/ten_2_hd_720/chunks.m3u8](https://stream.ottplus.live/live/ten_2_abr/live/ten_2_hd_720/chunks.m3u8)
+ * **Sony Ten 3:**
+   [https://stream.ottplus.live/live/ten_3_abr/live/ten_3_hd_720/chunks.m3u8](https://stream.ottplus.live/live/ten_3_abr/live/ten_3_hd_720/chunks.m3u8)
+ * **Star Sports 1:**
+   [https://stream.ottplus.live/live/star1_abr/live/star1_hd_720/chunks.m3u8](https://stream.ottplus.live/live/star1_abr/live/star1_hd_720/chunks.m3u8)
+ * **Sony Max HD (बिना 720):**
+   [https://stream.ottplus.live/live/max_hd_abr/live/max_hd/chunks.m3u8](https://stream.ottplus.live/live/max_hd_abr/live/max_hd/chunks.m3u8)
+### **Option 4: मास्टर प्लेलिस्ट फ़ाइल (index.m3u8 / playlist.m3u8)**
+अगर chunks.m3u8 के बजाय मास्टर फ़ाइल चल रही हो:
+ * **Sony Ten 2 HD:**
+   [https://stream.ottplus.live/live/ten_2_hd_abr/playlist.m3u8](https://stream.ottplus.live/live/ten_2_hd_abr/playlist.m3u8)
+ * **Sony Ten 3 HD:**
+   [https://stream.ottplus.live/live/ten_3_hd_abr/playlist.m3u8](https://stream.ottplus.live/live/ten_3_hd_abr/playlist.m3u8)
+ * **Sony Ten 2 HD (Alternate):**
+   [https://stream.ottplus.live/live/ten_2_hd_abr/index.m3u8](https://stream.ottplus.live/live/ten_2_hd_abr/index.m3u8)
+ * **Sony Max HD:**
+   [https://stream.ottplus.live/live/max_hd_abr/playlist.m3u8](https://stream.ottplus.live/live/max_hd_abr/playlist.m3u8)
+### **Option 5: chunks.m3u8 के बिना डाइरेक्ट पाथ**
+ * **Sony Ten 2 HD:**
+   [https://stream.ottplus.live/live/ten_2_hd_720/chunks.m3u8](https://stream.ottplus.live/live/ten_2_hd_720/chunks.m3u8)
+ * **Sony Ten 3 HD:**
+   [https://stream.ottplus.live/live/ten_3_hd_720/chunks.m3u8](https://stream.ottplus.live/live/ten_3_hd_720/chunks.m3u8)
+ * **Star Sports 1 HD:**
+   [https://stream.ottplus.live/live/star_sports_1_hd_720/chunks.m3u8](https://stream.ottplus.live/live/star_sports_1_hd_720/chunks.m3u8)
+**सुझाव:**
+सबसे पहले **Option 1** वाले लिंक्स ट्राइ करें, क्योंकि वे आपके द्वारा दिए गए max_hd, ten_1_hd, और ten_5_hd के ओरिजिनल पैटर्न से 100% मैच करते हैं।
