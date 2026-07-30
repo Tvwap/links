@@ -2,6 +2,13 @@
 
 
 {
+        "name": "Zee Sports",
+        "id": "105",
+        "category": "sports",
+        "logo": "https://img-cdn.publive.online/fit-in/1200x675/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg",
+"url":"https://tv2.wapgotube.workers.dev/proxy/https://s1.itcnbd.live/unite8-sports-1-hd/index.m3u8"},
+
+{
         "name": "T Sports",
         "id": "104",
         "category": "sports",
@@ -30,7 +37,7 @@
     },
 {
         "name": "AD Sports",
-        "id": "1001",
+        "id": "100",
         "category": "sports",
         "logo": "https://cdn.aptoide.com/imgs/0/e/d/0ed8c1824e122de151888f6615601c99_fgraphic.png",
         "url": "https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8"
