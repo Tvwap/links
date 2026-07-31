@@ -5,7 +5,7 @@
         "id": "106",
         "category": "sports",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/c063708662593e2a313084f6c0a3f496.png",
-"url":"https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMDI6ODA5MC9obHMvU29ueVRlbjJoZC5tM3U4.m3u8"},
+"url":"https://tv2.wapgotube.workers.dev/proxy/https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMDI6ODA5MC9obHMvU29ueVRlbjJoZC5tM3U4.m3u8"},
 
 {
         "name": "Zee Unite8 Sports",
@@ -19,7 +19,7 @@
         "id": "104",
         "category": "sports",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJzpZAcltkRfl83OhkAi9zQDG3nYvrGYXBcNQVslMHGh9_mz0rc43oPBd&s=10",
-"url":"https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?nocache=1783826412104"},
+"url":"https://tv2.wapgotube.workers.dev/proxy/https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?nocache=1783826412104"},
 {
         "name": "ptv Sports",
         "id": "103",
@@ -46,5 +46,5 @@
         "id": "100",
         "category": "sports",
         "logo": "https://cdn.aptoide.com/imgs/0/e/d/0ed8c1824e122de151888f6615601c99_fgraphic.png",
-        "url": "https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8"
+        "url": "https://tv2.wapgotube.workers.dev/proxy/https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8"
   }]
