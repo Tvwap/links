@@ -1,47 +1,86 @@
 [
-
-
-
 { 
-    "name": "combined_playlist", 
+    "name": "13", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/refs/heads/main/Channels_data.json", 
+    "matchRule": "name"
+  },
+{ 
+    "name": "12", 
     "player": "player4", 
     "jsonList": "https://gist.githubusercontent.com/nsdevaraj/48239b1a55a1df69be38126ed1092e13/raw/f7199e81df2b8aadac908901f0a710fd6f227fe5/combined_playlist.m3u", 
-    "dataSource": "", 
-    "matchRule": "id", 
-    "findRule": "url",
-    "proxy": "",
-    "streamTemplate": ""
+    "matchRule": "name"
   },
 { 
-    "name": "combined-playlist2", 
+    "name": "11", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u", 
+    "matchRule": "name"
+  },
+{ 
+    "name": "10", 
     "player": "player4", 
     "jsonList": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/combined-playlist.m3u", 
-    "dataSource": "", 
-    "matchRule": "id", 
-    "findRule": "url",
-    "streamTemplate": ""
+    "matchRule": "name"
   },
-
 { 
-    "name": "BDIX", 
-    "player": "player2", 
-    "jsonList": "https://raw.githubusercontent.com/Sopnnonil775/Bdix3/refs/heads/main/Bdix.m3u", 
-    "dataSource": "", 
-    "matchRule": "name", 
-    "findRule": "url",
-    "streamTemplate": ""
+    "name": "9", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/akash_live.m3u", 
+    "matchRule": "name"
   },
-
-  { 
-    "name": "BDStreamHub", 
+{ 
+    "name": "8", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/siam3310/cdn-tv/refs/heads/main/siamcdnplaylist.m3u", 
+    "matchRule": "name"
+  },
+{ 
+    "name": "7", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/in.m3u", 
+    "matchRule": "name"
+  },
+{ 
+    "name": "6", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/Rakib49/Rakibiptv/refs/heads/main/aynaott.m3u", 
+    "matchRule": "name"
+  },
+{ 
+    "name": "5", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/Raisanbd/moive-rplex/refs/heads/main/Sports.m3u", 
+    "matchRule": "name"
+  },
+{ 
+    "name": "4", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bd-test.m3u", 
+    "matchRule": "name"
+  },
+{ 
+    "name": "3", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/subirkumarpaul/Subirmaxpro/refs/heads/main/Subirmaxpro", 
+    "matchRule": "name"
+  },
+{ 
+    "name": "2", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/Sopnnonil775/Bdix3/refs/heads/main/Bdix.m3u", 
+    "matchRule": "name"
+  },
+{ 
+    "name": "1", 
     "player": "player4", 
     "jsonList": "https://raw.githubusercontent.com/BDSTVHUB/BDStreamHub/refs/heads/main/index.html", 
-    "dataSource": "", 
-    "matchRule": "name", 
-    "findRule": "url",
-    "streamTemplate": ""
+    "matchRule": "name"
   }
-  
+
+
+
+
 
   
 ]
