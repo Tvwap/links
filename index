@@ -1,4 +1,25 @@
 [
+
+
+{ 
+    "name": "16", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/sm-monirulislam/SM-Movie-Hup-Auto-Update/refs/heads/main/Movie_Combined.m3u", 
+    "matchRule": "name"
+  },
+{ 
+    "name": "15", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/IPTV_BDIX.m3u", 
+    "matchRule": "name"
+  },
+{ 
+    "name": "14", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Combined_Live_TV.m3u", 
+    "matchRule": "name"
+  },
+
 { 
     "name": "13", 
     "player": "player4", 
