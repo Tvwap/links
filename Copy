@@ -13,19 +13,19 @@
     "streamTemplate": ""
   },
 { 
-    "name": "CRICKET MPD", 
-    "player": "player0", 
-    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/cricketmpd", 
+    "name": "combined-playlist2", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/combined-playlist.m3u", 
     "dataSource": "", 
-    "matchRule": "name", 
+    "matchRule": "id", 
     "findRule": "url",
     "streamTemplate": ""
   },
 
 { 
-    "name": "SPORTS", 
+    "name": "BDIX", 
     "player": "player2", 
-    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/sports", 
+    "jsonList": "https://raw.githubusercontent.com/Sopnnonil775/Bdix3/refs/heads/main/Bdix.m3u", 
     "dataSource": "", 
     "matchRule": "name", 
     "findRule": "url",
@@ -33,12 +33,12 @@
   },
 
   { 
-    "name": "KHEL", 
-    "player": "player6", 
-    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/embed", 
+    "name": "BDStreamHub", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/BDSTVHUB/BDStreamHub/refs/heads/main/index.html", 
     "dataSource": "", 
-    "matchRule": "id", 
-    "findRule": "",
+    "matchRule": "name", 
+    "findRule": "url",
     "streamTemplate": ""
   }
   
