@@ -1,18 +1,46 @@
 [
+{
+        "name": "Star Sports 1",
+        "id": "110",
+        "category": "sports",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwJmqMbaxnY5MWUwTdYoJvEANwh9NapFN-vyfwazBnw&s=10",
+"url":"https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8"},
+
+{
+        "name": "Stsr sports 2",
+        "id": "109",
+        "category": "sports",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpr_ai_k0vPYGljuow82vf7P8SrhuYx0Z0jZMdWvV2dng5kKzgPUEYkvY&s=10",
+"url":"https://s3.itcnbd.live/channel/d7cdfb4d090e3f74.m3u8"},
+{
+        "name": "Sony Ten 1",
+        "id": "108",
+        "category": "sports",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2LIfxWpVkOtisJwmPrTpU1hbwrmxkDmad5ow_mf3O3g&s=10",
+"url":"https://footfytv.pro/proxy/direct?url=https://s3.itcnbd.live/channel/83da8812e94794d5.m3u8"},
 
 {
         "name": "Sony Ten 3",
-        "id": "106",
+        "id": "107",
         "category": "sports",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/c063708662593e2a313084f6c0a3f496.png",
 "url":"https://fuck-you.kasin-tv.com/fc/proxy.php/https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMDI6ODA5MC9obHMvU29ueVRlbjJoZC5tM3U4.m3u8"},
 
+
+
 {
         "name": "Zee Unite8 Sports",
-        "id": "105",
+        "id": "106",
         "category": "sports",
         "logo": "https://img-cdn.publive.online/fit-in/1200x675/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg",
 "url":"https://tv2.wapgotube.workers.dev/proxy/https://s1.itcnbd.live/unite8-sports-1-hd/index.m3u8"},
+
+{
+        "name": "A Sports",
+        "id": "105",
+        "category": "sports",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",
+"url":"https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4xMzk6ODA5MC9obHMvQVNwb3J0c0hELm0zdTg.m3u8"},
 
 {
         "name": "T Sports",
