@@ -1,11 +1,11 @@
 [
   {
-    "id": 4247975,
-    "name": "South Delhi Superstarz Vs Outer Delhi Warriors",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4247975_53005_SDS_ODW_fc-Web.png",
+    "id": 4247979,
+    "name": "New Delhi Tigers Vs Purani Dilli 6",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4247979_53005_NDT_PD_fc-Web.png",
     "category": "Cricket",
     "tournament": "Delhi Premier League, 2026",
-    "valid_until": "Friday, August 7, 2026, 1:21:03 PM"
+    "valid_until": "Friday, August 7, 2026, 6:49:06 PM"
   },
   {
     "id": 4248185,
@@ -16,12 +16,12 @@
     "valid_until": "Friday, August 7, 2026, 4:07:11 PM"
   },
   {
-    "id": 4247979,
-    "name": "New Delhi Tigers Vs Purani Dilli 6",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4247979_53005_NDT_PD_fc-Web.png",
-    "category": "Cricket",
-    "tournament": "Delhi Premier League, 2026",
-    "valid_until": "06 August 2026 07:00 PM"
+    "id": 4248208,
+    "name": "Day 1",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/PIF-London-Championship_FC-web.jpg",
+    "category": "Golf",
+    "tournament": "PIF London Championship 2026",
+    "valid_until": "Friday, August 7, 2026, 6:14:03 PM"
   },
   {
     "id": 4247973,
@@ -42,7 +42,7 @@
   {
     "id": 4248214,
     "name": "Scotland Vs Canada",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4248214_53013_SCO_CAN_fc-App.png",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4248214_53013_SCO_CAN_fc-Web.png",
     "category": "Cricket",
     "tournament": "ICC CWC League 2 Scotland, 2026",
     "valid_until": "07 August 2026 03:30 PM"
@@ -70,14 +70,6 @@
     "category": "Football",
     "tournament": "Club Friendlies 2026",
     "valid_until": "07 August 2026 05:30 PM"
-  },
-  {
-    "id": 4248208,
-    "name": "Day 1",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/PIF-London-Championship_FC-web.jpg",
-    "category": "Golf",
-    "tournament": "PIF London Championship 2026",
-    "valid_until": "06 August 2026 06:30 PM"
   },
   {
     "id": 4248074,
@@ -128,30 +120,6 @@
     "valid_until": "07 August 2026 03:30 AM"
   },
   {
-    "id": 4247969,
-    "name": "Purani Dilli 6 Vs Central Delhi Kings",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4247969_53005_PD_CDK_fc-Web.png",
-    "category": "Cricket",
-    "tournament": "Delhi Premier League, 2026",
-    "valid_until": "05 August 2026 01:30 PM"
-  },
-  {
-    "id": 4246730,
-    "name": "Jaffna Kings Vs Galle Gallants",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4246710_52991_JK_GG_FC-WEB.jpg",
-    "category": "Cricket",
-    "tournament": "Lanka Premier League, 2026",
-    "valid_until": "05 August 2026 03:00 PM"
-  },
-  {
-    "id": 4248054,
-    "name": "Ireland Vs Afghanistan",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
-    "category": "Cricket",
-    "tournament": "Afghanistan tour of Ireland, 2026",
-    "valid_until": "05 August 2026 03:15 PM"
-  },
-  {
     "id": 4248213,
     "name": "United Arab Emirates Vs Canada",
     "logo": "https://www.fancode.com/skillup-uploads/cms-media/4248213_53013_UAE_CAN_fc-Web.png",
@@ -184,6 +152,14 @@
     "valid_until": "05 August 2026 07:30 PM"
   },
   {
+    "id": 4247975,
+    "name": "Outer Delhi Warriors Vs South Delhi Superstarz",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4247975_53005_SDS_ODW_fc-Web.png",
+    "category": "Cricket",
+    "tournament": "Delhi Premier League, 2026",
+    "valid_until": "06 August 2026 01:30 PM"
+  },
+  {
     "id": 139960,
     "name": "Great Britain Gp",
     "logo": "https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard1080x8103.png",
@@ -192,20 +168,20 @@
     "valid_until": "07 August 2026 02:25 PM"
   },
   {
-    "id": 4248186,
-    "name": "Day 2   Main Feed",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
-    "category": "Golf",
-    "tournament": "Wyndham Championship 2026",
-    "valid_until": "07 August 2026 04:15 PM"
-  },
-  {
     "id": 4248169,
     "name": "Middlesbrough F.c. Vs Wrexham A.f.c.",
     "logo": "https://images.fancode.com/aig/match/v1785149849967/4248169_CASACARDS_SPORTY_APP.png",
     "category": "Football",
     "tournament": "Carabao Cup 2026-27",
     "valid_until": "08 August 2026 12:30 AM"
+  },
+  {
+    "id": 4248186,
+    "name": "Day 2   Main Feed",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
+    "category": "Golf",
+    "tournament": "Wyndham Championship 2026",
+    "valid_until": "07 August 2026 04:15 PM"
   },
   {
     "id": 4248209,
@@ -318,5 +294,29 @@
     "category": "MotoGP",
     "tournament": "QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026",
     "valid_until": "08 August 2026 02:05 PM"
+  },
+  {
+    "id": 4248170,
+    "name": "Queens Park Rangers F.c. Vs Millwall F.c.",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4248170_53016_QPR_MLW_fc-app.jpg",
+    "category": "Football",
+    "tournament": "Carabao Cup 2026-27",
+    "valid_until": "08 August 2026 06:30 PM"
+  },
+  {
+    "id": 4248171,
+    "name": "Derby County Football Club Vs Lincoln City F.c.",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4248171_53016_DER_LNC_fc-web.jpg",
+    "category": "Football",
+    "tournament": "Carabao Cup 2026-27",
+    "valid_until": "08 August 2026 07:30 PM"
+  },
+  {
+    "id": 4248172,
+    "name": "Swansea City A.f.c. Vs Birmingham City F.c.",
+    "logo": "https://images.fancode.com/aig/match/v1785149849988/4248172_CASACARDS_SPORTY_APP.png",
+    "category": "Football",
+    "tournament": "Carabao Cup 2026-27",
+    "valid_until": "08 August 2026 07:30 PM"
   }
 ]
