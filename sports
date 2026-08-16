@@ -1,36 +1,42 @@
 [
-{
-        "name": "Fifa ++",
-        "id": "5",
-        "category": "Sports",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg",
-        "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
-    },
+
 {
         "name": "Euro Sports",
-        "id": "4",
+        "id": "5",
         "category": "Sports",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg",
         "url": "https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8"
     },
-{
+
 
     
     {
         "name": "beIN Sports Xtra",
-        "id": "3",
+        "id": "4",
         "category": "Sports",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg",
         "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
     },
     
-    {
-    
-    {
     
     
     
-    {
+    
+    
+
+
+
+{
+        "name": "CAZE TV",
+        "id": "3",
+        "category": "sports",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7z6T8htunrCuW1A2l6SnYALiS-nVsSMiVlx8Z1pr4L-wNGRe-VlgYblk&s=10",
+        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
+    },
+
+
+
+{
         "name": "FIFA+",
         "id": "2",
         "category": "Sports",
@@ -39,21 +45,13 @@
     },
 
 
-
 {
-        "name": "CAZE TV",
+        "name": "Fifa ++",
         "id": "1",
-        "category": "sports",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7z6T8htunrCuW1A2l6SnYALiS-nVsSMiVlx8Z1pr4L-wNGRe-VlgYblk&s=10",
-        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
+        "category": "Sports",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg",
+        "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
     },
-
-
-
-
-
-
-
 
 
 
