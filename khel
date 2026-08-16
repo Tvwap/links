@@ -1,0 +1,24 @@
+
+[{
+        "name": "WILLOW TV",
+        "id": "1002",
+        "category": "khel",
+        "logo": "",
+        "url": "https://allrounder2-0.pages.dev/cricket/kick"
+    },
+
+
+       { "name": "SONY IOS",
+        "id": "1001",
+        "category": "khel",
+        "logo": "https://m.media-amazon.com/images/I/61JxXK7hNDL.png",
+"url":"https://s.ipl2026.workers.dev/live.m3u8?id=524"},
+
+{ "name": "SONY Max",
+        "id": "1000",
+        "category": "khel",
+        "logo": "",
+        "url": "https://cineprime7.pages.dev/sonymax/"
+    }
+
+]
