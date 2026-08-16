@@ -1,5 +1,27 @@
 [
 {
+        "name": "Star Select 2",
+        "id": "112",
+        "category": "sports",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuT1QngUO5WV7WGYaTA573NjpzDZ0GYw1tzVlh6g0ZnQ&s=10",
+"url":"https://s3.itcnbd.live/channel/ea25a516d781cb1c.m3u8"},
+
+{
+        "name": "Sony Ten 2",
+        "id": "111",
+        "category": "sports",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/9c0fc822845789953d3be9c29bb6f0cd.png",
+"url":"https://s3.itcnbd.live/channel/24a84eccb2485ba3.m3u8"},
+
+{
+        "name": "Star Sports 1",
+        "id": "110",
+        "category": "sports",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwJmqMbaxnY5MWUwTdYoJvEANwh9NapFN-vyfwazBnw&s=10",
+"url":"https://s3.itcnbd.live/server-4/stream/resource/aHR0cDovLzE3Mi4xOS4xNy4xMzk6ODA5MC9obHMvU3RhclNwb3J0c1NlbGVjdDJIRC0yMTM3MS50cw"},
+
+,
+{
         "name": "Star Sports 1",
         "id": "110",
         "category": "sports",
@@ -17,7 +39,8 @@
         "id": "108",
         "category": "sports",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2LIfxWpVkOtisJwmPrTpU1hbwrmxkDmad5ow_mf3O3g&s=10",
-"url":"https://footfytv.pro/proxy/direct?url=https://s3.itcnbd.live/channel/83da8812e94794d5.m3u8"},
+"url":"https://s3.itcnbd.live/channel/83da8812e94794d5.m3u8"},
+
 
 {
         "name": "Sony Ten 3",
@@ -33,7 +56,7 @@
         "id": "106",
         "category": "sports",
         "logo": "https://img-cdn.publive.online/fit-in/1200x675/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg",
-"url":"https://tv2.wapgotube.workers.dev/proxy/https://s1.itcnbd.live/unite8-sports-1-hd/index.m3u8"},
+"url":"https://s1.itcnbd.live/unite8-sports-1-hd/index.m3u8"},
 
 {
         "name": "A Sports",
@@ -53,7 +76,7 @@
         "id": "103",
         "category": "sports",
         "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",
-"url":"https://fuck-you.kasin-tv.com/fc/proxy.php/https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8"},
+"url":"https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8"},
 {
         "name": "Tapmad Tv",
         "id": "102",
