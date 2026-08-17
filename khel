@@ -1,10 +1,10 @@
 
 [{
-        "name": "WILLOW TV",
+        "name": "SonyLiv Hindi",
         "id": "1002",
         "category": "khel",
-        "logo": "",
-        "url": "https://allrounder2-0.pages.dev/cricket/kick"
+        "logo": "https://static.vecteezy.com/system/resources/previews/075/195/417/non_2x/sony-liv-logo-rounded-glossy-icon-with-transparent-background-free-png.png",
+        "url": "https://tv4wav.pages.dev/?app=jiohd&id=33744"
     },
 
 
@@ -14,11 +14,11 @@
         "logo": "https://m.media-amazon.com/images/I/61JxXK7hNDL.png",
 "url":"https://s.ipl2026.workers.dev/live.m3u8?id=524"},
 
-{ "name": "SONY Max",
+{ "name": "SONYLiv Eng",
         "id": "1000",
         "category": "khel",
-        "logo": "",
-        "url": "https://cineprime7.pages.dev/sonymax/"
+        "logo": "https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/general_content/PGT_1343_1.png",
+        "url": "https://tv4wav.pages.dev/?app=jiohd&id=33722"
     }
 
 ]
