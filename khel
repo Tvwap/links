@@ -3,6 +3,7 @@
         "name": "SonyLiv Hindi",
         "id": "1005",
         "category": "khel",
+       "match": "India vs Pakistan, IND vs AUS, Final Match",
         "logo": "https://static.vecteezy.com/system/resources/previews/075/195/417/non_2x/sony-liv-logo-rounded-glossy-icon-with-transparent-background-free-png.png",
         "url": "https://tv4wav.pages.dev/?app=jiohd&id=33744"
     },
@@ -33,6 +34,7 @@
     },{ "name": "Star Sports 1 hindi",
         "id": "1000",
         "category": "khel",
+"match": "India vs PAkistan, IND vs AUS, Final Match",
         "logo": "https://new.rangtv.in/upload/files/STAR%20SPORTS%201%20HINDI.webp",
         "url": "https://tv4wav.pages.dev/?app=jiohd&id=1108"
     }
