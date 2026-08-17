@@ -89,13 +89,7 @@
         "name": "WILLOW SPORTS",
         "id": "101",
         "category": "cricketm3u8",
-        "logo": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg",
+        "logo": "https://indiawest.com/wp-content/uploads/2025/01/Willow-Sports-Launches-On-Prime-Video-In-US.webp",
         "url": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8"
-    },
-{
-        "name": "Sony liv",
-        "id": "100",
-        "category": "",
-        "logo": "https://cdn.aptoide.com/imgs/0/e/d/0ed8c1824e122de151888f6615601c99_fgraphic.png",
-        "url": "https://s.ipl2026.workers.dev/live.m3u8?id=524"
-  }]
+    }
+]
