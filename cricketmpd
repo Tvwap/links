@@ -4,7 +4,7 @@
         "keyId": "065051b99bf5cf8d9a3bde5cbde6aaf9",
         "key": "214bd176832872339ce184338320f9a2",
         "name": "Fancode",
-         "category": "cricketmpd",
+         "category": "",
         "id": "6",
         "logo": "https://widespread-plum-gffbkraoo7-deis8y3f44.edgeone.dev/FanCode_logo.svg.png",
         "url": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd"
@@ -15,7 +15,7 @@
         "keyId": "7e9239c1982d984a002df3ed049d0756",
         "key": "1b8a17598129a3618535c8fb05f103fe",
         "name": "Fancode 2",
-        "category": "cricketmpd",
+        "category": "",
         "id": "5",
         "logo": "https://widespread-plum-gffbkraoo7-deis8y3f44.edgeone.dev/FanCode_logo.svg.png",
         "url": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
