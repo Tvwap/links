@@ -2,8 +2,8 @@
 
 {
         "name": "Euro Sports",
-        "match": "India vs Pakistan, IND vs AUS, Final Match",
         "id": "5",
+        "match": "",
         "category": "Sports",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg",
         "url": "https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8"
@@ -14,6 +14,7 @@
     {
         "name": "beIN Sports Xtra",
         "id": "4",
+        "match": "",
         "category": "Sports",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg",
         "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
@@ -30,6 +31,7 @@
 {
         "name": "CAZE TV",
         "id": "3",
+        "match": "",
         "category": "sports",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7z6T8htunrCuW1A2l6SnYALiS-nVsSMiVlx8Z1pr4L-wNGRe-VlgYblk&s=10",
         "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
@@ -39,8 +41,8 @@
 
 {
         "name": "FIFA+",
-        "match": "India vs Pakistan, IND vs AUS, Final Match",
         "id": "2",
+        "match": "",
         "category": "Sports",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png",
         "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8"
@@ -50,6 +52,7 @@
 {
         "name": "Fifa ++",
         "id": "1",
+        "match": "",
         "category": "",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg",
         "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
@@ -64,40 +67,41 @@
 
 
 
-{
+{       "name": "TSN5",
+        "id": "01",
+        "match": "",
+        "category": "Sports",
         "keyId": "385ceb9714b75e0cef61254f80b31002",
         "key": "18dce92a2891fee68d21ede5173230f8",
-        "category": "Sports",
-        "name": "TSN5",
-        "id": "01",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEK912SgqvHK3abza3bKr8D4Dhy9WNXzSWWouGt0z11ZXX1TbF6YG4J_D&s=10",
         "url": "https://tv2.wapgotube.workers.dev/proxy/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd"
     },
 
-{
+{       "name": "MotoGP",
+        "id": "02",
+        "match": "",
+        "category": "Sports",
         "keyId": "e03f302ec4dabcccca82cc9f76731ec9",
         "key": "53ea1027d2bf2893a552cf15bc0366de",
-        "name": "MotoGP",
-        "category": "Sports",
-        "id": "02",
         "logo": "https://logos-world.net/wp-content/uploads/2025/07/MotoGP-Symbol.png",
         "url": "https://tv2.wapgotube.workers.dev/proxy/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd"
     },
 
-{
+{       "name": "SPOTV 2",
+        "id": "03",
+        "match": "",
+        "category": "Sports",
         "keyId": "7eea72d6075245a99ee3255603d58853",
         "key": "6848ef60575579bf4d415db1032153ed",
-        "name": "SPOTV 2",
-        "category": "Sports",
-        "id": "03",
         "logo": "https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png",
         "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd"
     },
 
 {
         "name": "CT SPORTS CZ",
-        "category": "Sports",
         "id": "04",
+        "match": "",
+        "category": "Sports",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXjmoLhGnjXvK5g7otyKm75r-8rjWeGINmSQSGkRsWqQ15nagJFRHmnbo&s=10",
         "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
         "keyId": "11223344556677889900112233445566",
@@ -106,8 +110,9 @@
 
 {
         "name": "D SPORTS",
-        "category": "Sports",
         "id": "05",
+        "match": "",
+        "category": "Sports",
         "logo": "https://yt3.googleusercontent.com/TMzi1CE7Cg1HUYJbbYfGSgAVKzYrEPztlDflq6x170GGq53c1Yxv_JAs10QjdHeQ6fiW99hSHg=s900-c-k-c0x00ffffff-no-rj",
         "url": "https://tv2.wapgotube.workers.dev/proxy/https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
         "keyId": "83f81c4cc1443991543de4e22eea7586",
