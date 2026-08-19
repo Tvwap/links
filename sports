@@ -2,6 +2,7 @@
 
 {
         "name": "Euro Sports",
+        "match": "India vs Pakistan, IND vs AUS, Final Match",
         "id": "5",
         "category": "Sports",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg",
@@ -38,6 +39,7 @@
 
 {
         "name": "FIFA+",
+        "match": "India vs Pakistan, IND vs AUS, Final Match",
         "id": "2",
         "category": "Sports",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png",
