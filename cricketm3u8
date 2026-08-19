@@ -1,7 +1,6 @@
 [
 {
         "name": "Star Select 2",
-        "match": "India vs Pakistan, IND vs AUS, Final Match",
         "id": "112",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuT1QngUO5WV7WGYaTA573NjpzDZ0GYw1tzVlh6g0ZnQ&s=10",
@@ -10,14 +9,15 @@
 {
         "name": "Sony Ten 2",
         "id": "111",
+        "match": "",
         "category": "cricketm3u8",
-        "match": "India vs Pakistan, IND vs AUS, Final Match",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/9c0fc822845789953d3be9c29bb6f0cd.png",
 "url":"https://s3.itcnbd.live/channel/24a84eccb2485ba3.m3u8"},
 
 {
         "name": "Star Sports 1",
         "id": "110",
+        "match": "",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwJmqMbaxnY5MWUwTdYoJvEANwh9NapFN-vyfwazBnw&s=10",
 "url":"https://s3.itcnbd.live/server-4/stream/resource/aHR0cDovLzE3Mi4xOS4xNy4xMzk6ODA5MC9obHMvU3RhclNwb3J0c1NlbGVjdDJIRC0yMTM3MS50cw"},
@@ -26,6 +26,7 @@
 {
         "name": "Star Sports 1",
         "id": "110",
+        "match": "",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwJmqMbaxnY5MWUwTdYoJvEANwh9NapFN-vyfwazBnw&s=10",
 "url":"https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8"},
@@ -33,11 +34,13 @@
 {
         "name": "Stsr sports 2",
         "id": "109",
+        "match": "",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpr_ai_k0vPYGljuow82vf7P8SrhuYx0Z0jZMdWvV2dng5kKzgPUEYkvY&s=10",
 "url":"https://s3.itcnbd.live/channel/d7cdfb4d090e3f74.m3u8"},
 {
         "name": "Sony Ten 1",
+        "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "id": "108",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2LIfxWpVkOtisJwmPrTpU1hbwrmxkDmad5ow_mf3O3g&s=10",
@@ -47,6 +50,7 @@
 {
         "name": "Sony Ten 3",
         "id": "107",
+        "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "category": "cricketm3u8",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/c063708662593e2a313084f6c0a3f496.png",
 "url":"https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMDI6ODA5MC9obHMvU29ueVRlbjJoZC5tM3U4.m3u8"},
@@ -56,6 +60,7 @@
 {
         "name": "Zee Unite8 Sports",
         "id": "106",
+        "match": "",
         "category": "cricketm3u8",
         "logo": "https://img-cdn.publive.online/fit-in/1200x675/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg",
 "url":"https://s1.itcnbd.live/unite8-sports-1-hd/index.m3u8"},
@@ -63,6 +68,7 @@
 {
         "name": "A Sports",
         "id": "105",
+        "match": "Pakistan tour of England  3 Tests Aug 13 - Sep 13",
         "category": "cricketm3u8",
         "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",
 "url":"https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4xMzk6ODA5MC9obHMvQVNwb3J0c0hELm0zdTg.m3u8"},
@@ -70,18 +76,21 @@
 {
         "name": "T Sports",
         "id": "104",
+        "match": "",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJzpZAcltkRfl83OhkAi9zQDG3nYvrGYXBcNQVslMHGh9_mz0rc43oPBd&s=10",
 "url":"https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?nocache=1783826412104"},
 {
         "name": "ptv Sports",
         "id": "103",
+        "match": "Pakistan tour of England  3 Tests Aug 13 - Sep 13",
         "category": "cricketm3u8",
         "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",
 "url":"https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8"},
 {
         "name": "Tapmad Tv",
         "id": "102",
+        "match": "",
         "category": "",
         "logo": "https://d34080pnh6e62j.cloudfront.net/images/VideoOnDemandThumb/1648210285NewTapmadLogo-01@2x.png",
         "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
@@ -90,6 +99,7 @@
 {
         "name": "WILLOW SPORTS",
         "id": "101",
+        "match": "",
         "category": "cricketm3u8",
         "logo": "https://indiawest.com/wp-content/uploads/2025/01/Willow-Sports-Launches-On-Prime-Video-In-US.webp",
         "url": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8"
