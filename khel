@@ -2,8 +2,8 @@
 [{
         "name": "SonyLiv Hindi",
         "id": "1005",
+        "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "category": "khel",
-       "match": "India vs Pakistan, IND vs AUS, Final Match",
         "logo": "https://static.vecteezy.com/system/resources/previews/075/195/417/non_2x/sony-liv-logo-rounded-glossy-icon-with-transparent-background-free-png.png",
         "url": "https://tv4wav.pages.dev/?app=jiohd&id=33744"
     },
@@ -11,30 +11,36 @@
 
        { "name": "SONY IOS",
         "id": "1004",
+        "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "category": "khel",
         "logo": "https://m.media-amazon.com/images/I/61JxXK7hNDL.png",
 "url":"https://s.ipl2026.workers.dev/live.m3u8?id=524"},
 
 { "name": "SONYLiv Eng",
         "id": "1003",
+        "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "category": "khel",
         "logo": "https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/general_content/PGT_1343_1.png",
         "url": "https://tv4wav.pages.dev/?app=jiohd&id=33722"
     },
 { "name": "SONY Ten 1",
         "id": "1002",
+        "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "category": "khel",
         "logo": "https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/general_content/PGT_1642_1.jpg",
         "url": "https://tv4wav.pages.dev/?app=toffee&id=sony_sports_1_hd"
-    },{ "name": "Star Sports 2 hindi",
+    },
+
+{ "name": "Star Sports 2 hindi",
         "id": "1001",
+        "match": "",
         "category": "khel",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxayrMaD6F7l3HhuaunkJGvbh2yHCKjGPuQj4OI4pJaOZRZ1zGCmtvNhc&s=10",
         "url": "https://tv4wav.pages.dev/?app=jiohd&id=1984"
     },{ "name": "Star Sports 1 hindi",
         "id": "1000",
         "category": "khel",
-"match": "India vs PAkistan, IND vs AUS, Final Match",
+        "match": "",
         "logo": "https://new.rangtv.in/upload/files/STAR%20SPORTS%201%20HINDI.webp",
         "url": "https://tv4wav.pages.dev/?app=jiohd&id=1108"
     }
