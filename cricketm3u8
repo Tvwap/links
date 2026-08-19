@@ -1,6 +1,7 @@
 [
 {
         "name": "Star Select 2",
+        "match": "India vs Pakistan, IND vs AUS, Final Match",
         "id": "112",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuT1QngUO5WV7WGYaTA573NjpzDZ0GYw1tzVlh6g0ZnQ&s=10",
@@ -10,6 +11,7 @@
         "name": "Sony Ten 2",
         "id": "111",
         "category": "cricketm3u8",
+        "match": "India vs Pakistan, IND vs AUS, Final Match",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/9c0fc822845789953d3be9c29bb6f0cd.png",
 "url":"https://s3.itcnbd.live/channel/24a84eccb2485ba3.m3u8"},
 
