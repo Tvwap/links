@@ -18,7 +18,7 @@
 {
         "name": "Star Sports 1",
         "id": "110",
-        "match": "",
+        "match": "CPL  39 T20s Aug 07 - Sep 20 2026",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwJmqMbaxnY5MWUwTdYoJvEANwh9NapFN-vyfwazBnw&s=10",
 "url":"https://s3.itcnbd.live/server-4/stream/resource/aHR0cDovLzE3Mi4xOS4xNy4xMzk6ODA5MC9obHMvU3RhclNwb3J0c1NlbGVjdDJIRC0yMTM3MS50cw"},
@@ -27,15 +27,15 @@
 {
         "name": "Star Sports 1",
         "id": "110",
-        "match": "",
+        "match": "CPL  39 T20s Aug 07 - Sep 20 2026",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwJmqMbaxnY5MWUwTdYoJvEANwh9NapFN-vyfwazBnw&s=10",
 "url":"https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8"},
 
 {
-        "name": "Stsr sports 2",
+        "name": "Star sports 2",
         "id": "109",
-        "match": "",
+        "match": "CPL  39 T20s Aug 07 - Sep 20 2026",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpr_ai_k0vPYGljuow82vf7P8SrhuYx0Z0jZMdWvV2dng5kKzgPUEYkvY&s=10",
 "url":"https://s3.itcnbd.live/channel/d7cdfb4d090e3f74.m3u8"},
