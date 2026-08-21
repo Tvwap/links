@@ -33,14 +33,14 @@
 
 { "name": "Star Sports 2 hindi",
         "id": "1001",
-        "match": "",
+        "match": "CPL  39 T20s Aug 07 - Sep 20 2026",
         "category": "khel",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxayrMaD6F7l3HhuaunkJGvbh2yHCKjGPuQj4OI4pJaOZRZ1zGCmtvNhc&s=10",
         "url": "https://tv4wav.pages.dev/?app=jiohd&id=1984"
     },{ "name": "Star Sports 1 hindi",
         "id": "1000",
         "category": "khel",
-        "match": "",
+        "match": "CPL  39 T20s Aug 07 - Sep 20 2026",
         "logo": "https://new.rangtv.in/upload/files/STAR%20SPORTS%201%20HINDI.webp",
         "url": "https://tv4wav.pages.dev/?app=jiohd&id=1108"
     }
