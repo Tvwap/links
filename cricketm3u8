@@ -1,27 +1,5 @@
 [
-{
-        "name": "Star Select 2",
-        "id": "112",
-        "match": "",
-        "category": "cricketm3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuT1QngUO5WV7WGYaTA573NjpzDZ0GYw1tzVlh6g0ZnQ&s=10",
-"url":"https://s3.itcnbd.live/channel/ea25a516d781cb1c.m3u8"},
 
-{
-        "name": "Sony Ten 2",
-        "id": "111",
-        "match": "",
-        "category": "cricketm3u8",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/9c0fc822845789953d3be9c29bb6f0cd.png",
-"url":"https://s3.itcnbd.live/channel/24a84eccb2485ba3.m3u8"},
-
-{
-        "name": "Star Sports 1",
-        "id": "110",
-        "match": "CPL  39 T20s Aug 07 - Sep 20 2026",
-        "category": "cricketm3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwJmqMbaxnY5MWUwTdYoJvEANwh9NapFN-vyfwazBnw&s=10",
-"url":"https://s3.itcnbd.live/server-4/stream/resource/aHR0cDovLzE3Mi4xOS4xNy4xMzk6ODA5MC9obHMvU3RhclNwb3J0c1NlbGVjdDJIRC0yMTM3MS50cw"},
 
 
 {
@@ -30,7 +8,11 @@
         "match": "CPL  39 T20s Aug 07 - Sep 20 2026",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwJmqMbaxnY5MWUwTdYoJvEANwh9NapFN-vyfwazBnw&s=10",
-"url":"https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8"},
+"url":"https://s3.itcnbd.live/server-4/stream/resource/aHR0cDovLzE3Mi4xOS4xNy4xMzk6ODA5MC9obHMvU3RhclNwb3J0c1NlbGVjdDJIRC0yMTM3MS50cw",
+"url1":"https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8"},
+
+
+
 
 {
         "name": "Star sports 2",
@@ -40,12 +22,35 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpr_ai_k0vPYGljuow82vf7P8SrhuYx0Z0jZMdWvV2dng5kKzgPUEYkvY&s=10",
 "url":"https://s3.itcnbd.live/channel/d7cdfb4d090e3f74.m3u8"},
 {
+        "name": "Star Select 2",
+        "id": "112",
+        "match": "",
+        "category": "cricketm3u8",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuT1QngUO5WV7WGYaTA573NjpzDZ0GYw1tzVlh6g0ZnQ&s=10",
+"url":"https://s3.itcnbd.live/channel/ea25a516d781cb1c.m3u8"},
+
+
+
+
+
+
+
+
+{
         "name": "Sony Ten 1",
         "id": "108",
         "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2LIfxWpVkOtisJwmPrTpU1hbwrmxkDmad5ow_mf3O3g&s=10",
 "url":"https://s3.itcnbd.live/channel/83da8812e94794d5.m3u8"},
+
+{
+        "name": "Sony Ten 2",
+        "id": "111",
+        "match": "",
+        "category": "cricketm3u8",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/9c0fc822845789953d3be9c29bb6f0cd.png",
+"url":"https://s3.itcnbd.live/channel/24a84eccb2485ba3.m3u8"},
 
 
 {
@@ -89,14 +94,7 @@
         "category": "cricketm3u8",
         "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",
 "url":"https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8"},
-{
-        "name": "Tapmad Tv",
-        "id": "102",
-        "match": "",
-        "category": "",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/VideoOnDemandThumb/1648210285NewTapmadLogo-01@2x.png",
-        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-    },
+
 
 {
         "name": "WILLOW SPORTS",
@@ -104,6 +102,15 @@
         "match": "Bangladesh tour of Australia 2 Tests  Aug 06 - Aug 26",
         "category": "cricketm3u8",
         "logo": "https://indiawest.com/wp-content/uploads/2025/01/Willow-Sports-Launches-On-Prime-Video-In-US.webp",
-        "url": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8"
+        "url": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+"url1":"https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+    },
+{
+        "name": "Tapmad Tv",
+        "id": "102",
+        "match": "",
+        "category": "",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/VideoOnDemandThumb/1648210285NewTapmadLogo-01@2x.png",
+        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
     }
 ]
