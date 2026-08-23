@@ -4,7 +4,7 @@
 
 {
         "name": "Star Sports 1",
-        "id": "110",
+        "id": "111",
         "match": "CPL  39 T20s Aug 07 - Sep 20 2026",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwJmqMbaxnY5MWUwTdYoJvEANwh9NapFN-vyfwazBnw&s=10",
@@ -16,14 +16,14 @@
 
 {
         "name": "Star sports 2",
-        "id": "109",
+        "id": "110",
         "match": "CPL  39 T20s Aug 07 - Sep 20 2026",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpr_ai_k0vPYGljuow82vf7P8SrhuYx0Z0jZMdWvV2dng5kKzgPUEYkvY&s=10",
 "url":"https://s3.itcnbd.live/channel/d7cdfb4d090e3f74.m3u8"},
 {
         "name": "Star Select 2",
-        "id": "112",
+        "id": "109",
         "match": "",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuT1QngUO5WV7WGYaTA573NjpzDZ0GYw1tzVlh6g0ZnQ&s=10",
@@ -46,7 +46,7 @@
 
 {
         "name": "Sony Ten 2",
-        "id": "111",
+        "id": "107",
         "match": "",
         "category": "cricketm3u8",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/9c0fc822845789953d3be9c29bb6f0cd.png",
@@ -55,7 +55,7 @@
 
 {
         "name": "Sony Ten 3",
-        "id": "107",
+        "id": "106",
         "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "category": "cricketm3u8",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/c063708662593e2a313084f6c0a3f496.png",
@@ -65,7 +65,7 @@
 
 {
         "name": "Zee Unite8 Sports",
-        "id": "106",
+        "id": "105",
         "match": "",
         "category": "cricketm3u8",
         "logo": "https://img-cdn.publive.online/fit-in/1200x675/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg",
@@ -73,7 +73,7 @@
 
 {
         "name": "A Sports",
-        "id": "105",
+        "id": "104",
         "match": "Pakistan tour of England  3 Tests Aug 13 - Sep 13",
         "category": "cricketm3u8",
         "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",
@@ -81,7 +81,7 @@
 
 {
         "name": "T Sports",
-        "id": "104",
+        "id": "103",
         "match": "Pakistan tour of England  3 Tests Aug 13 - Sep 13,Bangladesh tour of Australia 2 Tests  Aug 06 - Aug 26",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJzpZAcltkRfl83OhkAi9zQDG3nYvrGYXBcNQVslMHGh9_mz0rc43oPBd&s=10",
@@ -89,7 +89,7 @@
 "url1":"https://cache.devm3u.top/live/bdixsports.m3u8"},
 {
         "name": "ptv Sports",
-        "id": "103",
+        "id": "102",
         "match": "Pakistan tour of England  3 Tests Aug 13 - Sep 13",
         "category": "cricketm3u8",
         "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",
@@ -107,7 +107,7 @@
     },
 {
         "name": "Tapmad Tv",
-        "id": "102",
+        "id": "100",
         "match": "",
         "category": "",
         "logo": "https://d34080pnh6e62j.cloudfront.net/images/VideoOnDemandThumb/1648210285NewTapmadLogo-01@2x.png",
