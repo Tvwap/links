@@ -1,5 +1,19 @@
 
-[{
+[
+{ "name": "SONY TEN 3",
+        "id": "1007",
+        "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
+        "category": "khel",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",
+"url":"https://tv4wav.pages.dev/?app=sonyliv&id=2020591"},
+{ "name": "SONY TEN 1",
+        "id": "1006",
+        "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
+        "category": "khel",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png",
+"url":"https://tv4wav.pages.dev/?app=sonyliv&id=2011739"},
+
+{
         "name": "SonyLiv Hindi",
         "id": "1005",
         "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
@@ -9,7 +23,7 @@
     },
 
 
-       { "name": "SONY IOS",
+       { "name": "SONYLiv IOS",
         "id": "1004",
         "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "category": "khel",
@@ -51,17 +65,24 @@
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png",
         "url": "https://tv4wav.pages.dev/?app=crichd&id=willowusa"
     },{ "name":"SKY CRICKET",
-        "id": "1000",
+        "id": "999",
         "category": "khel",
         "match": "",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png",
         "url": "https://tv4wav.pages.dev/?app=crichd&id=skyscric"
     },{ "name": "TEN CRICKET",
-        "id": "1000",
+        "id": "998",
         "category": "khel",
         "match": "",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",
         "url": "https://tv4wav.pages.dev/?app=toffee&id=ten_cricket"
+    },
+{ "name": "TEN SPORTS",
+        "id": "998",
+        "category": "khel",
+        "match": "",
+        "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png",
+        "url": "https://tv4wav.pages.dev/?app=crichd&id=tenspk"
     }
 
 
