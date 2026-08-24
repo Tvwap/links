@@ -112,5 +112,21 @@
         "category": "",
         "logo": "https://d34080pnh6e62j.cloudfront.net/images/VideoOnDemandThumb/1648210285NewTapmadLogo-01@2x.png",
         "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+    },
+{ "name":"SKY CRICKET",
+        "id": "98",
+        "category": "cricketm3u8",
+        "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
+        "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png",
+        "url": "https://7nyaler.streamhostingcdn.top/stream/10/master.m3u8"
+    },
+
+{       "name": "TNT 1",
+        "id": "97",
+        "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
+        "category": "cricketm3u8",
+        
+        "logo": "https://media.info/l/o/1/1539.1690027797.png",
+        "url": "https://7nyaler.streamhostingcdn.top/stream/13/master.m3u8"
     }
 ]
