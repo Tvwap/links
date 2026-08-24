@@ -1,5 +1,11 @@
 
 [
+{ "name": "STAR SPORTS KHEL",
+        "id": "1008",
+        "match": "Duleep Trophy 2026",
+        "category": "khel",
+        "logo": "https://img.media.jio.com/tvpimages/88/40/301246_1765910122539_still_high.jpg",
+"url":"https://tv4wav.pages.dev/?app=jiohd&id=1998"},
 { "name": "SONY TEN 3",
         "id": "1007",
         "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
@@ -28,7 +34,7 @@
         "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "category": "khel",
         "logo": "https://m.media-amazon.com/images/I/61JxXK7hNDL.png",
-"url":"https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/YBJOQOntc7YIRmGwbU3H7G7CwTat101OnukZFLjlUSDuawelV4IFpoy1Km6qoT01nYuz7D2243ZUICGVICj500aP9nBnRBBeM7F/rendition.m3u8?cdn=fastly&expires=1787547600&live=1&skid=default&signature=NmE4YmNmZDBfN2ViNjRlMWY5MzRkZWY0MjNlOWNlOWJiYTkyNGQwYzc0NjQxZDI3OGVkN2Q3N2NiYTliMTRmNjhiYWZhMjRkOA==&_HLS_msn=374&_HLS_part=1"},
+"url":"https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/J9pTTLWc9gGXfAjgF02QOEHJbuLzvOxdt00dCnsqyfIFSVYb02O4uhCsBFl5G7EnK8hfeQ1oO01bu401nXcV1EGl00U6HhC003ASTEb/rendition.m3u8?cdn=fastly&expires=1787637600&skid=default&signature=NmE4ZDJmNjBfNWE3MWRjZjhmYTNjYzgwYjc0NTUzMjIxZTE3NTE5MzRmNTYyN2EwM2YzYTRiNTQ1ZTNkYTg2YjAyZTYxNGY4Yg=="},
 
 { "name": "SONYLiv Eng",
         "id": "1003https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/YBJOQOntc7YIRmGwbU3H7G7CwTat101OnukZFLjlUSDuawelV4IFpoy1Km6qoT01nYuz7D2243ZUICGVICj500aP9nBnRBBeM7F/rendition.m3u8?cdn=fastly&expires=1787547600&live=1&skid=default&signature=NmE4YmNmZDBfN2ViNjRlMWY5MzRkZWY0MjNlOWNlOWJiYTkyNGQwYzc0NjQxZDI3OGVkN2Q3N2NiYTliMTRmNjhiYWZhMjRkOA==&_HLS_msn=374&_HLS_part=1",
