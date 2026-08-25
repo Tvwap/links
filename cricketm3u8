@@ -4,7 +4,7 @@
 
 {
         "name": "Star Sports 1",
-        "id": "111",
+        "id": "220",
         "match": "CPL  39 T20s Aug 07 - Sep 20 2026",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwJmqMbaxnY5MWUwTdYoJvEANwh9NapFN-vyfwazBnw&s=10",
@@ -16,14 +16,14 @@
 
 {
         "name": "Star sports 2",
-        "id": "110",
+        "id": "210",
         "match": "CPL  39 T20s Aug 07 - Sep 20 2026",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpr_ai_k0vPYGljuow82vf7P8SrhuYx0Z0jZMdWvV2dng5kKzgPUEYkvY&s=10",
 "url":"https://s3.itcnbd.live/channel/d7cdfb4d090e3f74.m3u8"},
 {
         "name": "Star Select 2",
-        "id": "109",
+        "id": "200",
         "match": "",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuT1QngUO5WV7WGYaTA573NjpzDZ0GYw1tzVlh6g0ZnQ&s=10",
@@ -38,7 +38,7 @@
 
 {
         "name": "Sony Ten 1",
-        "id": "108",
+        "id": "190",
         "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2LIfxWpVkOtisJwmPrTpU1hbwrmxkDmad5ow_mf3O3g&s=10",
@@ -46,7 +46,7 @@
 
 {
         "name": "Sony Ten 2",
-        "id": "107",
+        "id": "180",
         "match": "",
         "category": "cricketm3u8",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/9c0fc822845789953d3be9c29bb6f0cd.png",
@@ -55,7 +55,7 @@
 
 {
         "name": "Sony Ten 3",
-        "id": "106",
+        "id": "170",
         "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "category": "cricketm3u8",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/c063708662593e2a313084f6c0a3f496.png",
@@ -65,7 +65,7 @@
 
 {
         "name": "Zee Unite8 Sports",
-        "id": "105",
+        "id": "160",
         "match": "",
         "category": "cricketm3u8",
         "logo": "https://img-cdn.publive.online/fit-in/1200x675/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg",
@@ -73,7 +73,7 @@
 
 {
         "name": "A Sports",
-        "id": "104",
+        "id": "150",
         "match": "Pakistan tour of England  3 Tests Aug 13 - Sep 13",
         "category": "cricketm3u8",
         "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",
@@ -81,7 +81,7 @@
 
 {
         "name": "T Sports",
-        "id": "103",
+        "id": "140",
         "match": "Pakistan tour of England  3 Tests Aug 13 - Sep 13,Bangladesh tour of Australia 2 Tests  Aug 06 - Aug 26",
         "category": "cricketm3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJzpZAcltkRfl83OhkAi9zQDG3nYvrGYXBcNQVslMHGh9_mz0rc43oPBd&s=10",
@@ -89,32 +89,40 @@
 "url1":"https://cache.devm3u.top/live/bdixsports.m3u8"},
 {
         "name": "ptv Sports",
-        "id": "102",
+        "id": "130",
         "match": "Pakistan tour of England  3 Tests Aug 13 - Sep 13",
         "category": "cricketm3u8",
         "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",
 "url":"https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8"},
-
+{
+        "name": "WILLOW CRICKET",
+        "id": "120",
+        "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
+        "category": "cricketm3u8",
+        "logo": "https://static.cricbuzz.com/a/img/v1/1080x608/i1/c626539/willow-tv-now-available-on-youtube-tv-in-the-us.jpg",
+        "url": "https://tv.ashoktyar1.workers.dev/proxy/http://tvsen5.aynascope.net/willowhd/index.m3u8"
+    },
 
 {
         "name": "WILLOW SPORTS",
-        "id": "101",
+        "id": "120",
         "match": "Bangladesh tour of Australia 2 Tests  Aug 06 - Aug 26",
         "category": "cricketm3u8",
         "logo": "https://indiawest.com/wp-content/uploads/2025/01/Willow-Sports-Launches-On-Prime-Video-In-US.webp",
         "url": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
 "url1":"https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
     },
+
 {
         "name": "Tapmad Tv",
-        "id": "100",
+        "id": "110",
         "match": "",
         "category": "",
         "logo": "https://d34080pnh6e62j.cloudfront.net/images/VideoOnDemandThumb/1648210285NewTapmadLogo-01@2x.png",
         "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
     },
 { "name":"SKY CRICKET",
-        "id": "98",
+        "id": "100",
         "category": "cricketm3u8",
         "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png",
@@ -122,7 +130,7 @@
     },
 
 {       "name": "TNT 1",
-        "id": "97",
+        "id": "90",
         "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "category": "cricketm3u8",
         
