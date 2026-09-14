@@ -15,13 +15,13 @@
 { 
     "name": "15", 
     "player": "player4", 
-    "jsonList": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/IPTV_BDIX.m3u", 
+    "jsonList": "", 
     "matchRule": "name"
   },
 { 
     "name": "14", 
     "player": "player4", 
-    "jsonList": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Combined_Live_TV.m3u", 
+    "jsonList": "", 
     "matchRule": "name"
   },
 
@@ -40,7 +40,7 @@
 { 
     "name": "11", 
     "player": "player4", 
-    "jsonList": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u", 
+    "jsonList": "", 
     "matchRule": "name"
   },
 { 
@@ -52,7 +52,7 @@
 { 
     "name": "9", 
     "player": "player4", 
-    "jsonList": "https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/akash_live.m3u", 
+    "jsonList": "", 
     "matchRule": "name"
   },
 { 
@@ -88,7 +88,7 @@
 { 
     "name": "3", 
     "player": "player4", 
-    "jsonList": "https://raw.githubusercontent.com/subirkumarpaul/Subirmaxpro/refs/heads/main/Subirmaxpro", 
+    "jsonList": "", 
     "matchRule": "name"
   },
 { 
