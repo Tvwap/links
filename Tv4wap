@@ -7,6 +7,9 @@
 "mb2":"https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/cookie.json",
 "pl0": "https://sonujson-v3.pages.dev/Data/sports.json",
   "pl1": "https://binge-giotv.pages.dev/data/id.json",
-  "pl2": "https://allinonereborn2.online/jtv-fetch/jstarcookie/cookie.json",
-  "auto": "https://sayan-jio-tv.pages.dev/playlist.m3u"
+"pl2": "https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/star2.json",
+  "pl3": "https://allinonereborn2.online/jtv-fetch/jstarcookie/cookie.json",
+"auto": "https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/jtv.json",
+  "auto1": "https://sayan-jio-tv.pages.dev/playlist.m3u",
+"auto2": "https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/jtvplus7.m3u"
 }
