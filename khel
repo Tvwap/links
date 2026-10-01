@@ -6,19 +6,19 @@
         "match": "Duleep Trophy 2026",
         "category": "khel",
         "logo": "https://img.media.jio.com/tvpimages/88/40/301246_1765910122539_still_high.jpg",
-"url":"https://tv4wav.pages.dev/?app=jiohd&id=1998"},
+"url":""},
 { "name": "SONY TEN 3",
         "id": "1007",
         "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "category": "khel",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",
-"url":"https://tv4wav.pages.dev/?app=sonyliv&id=2020592"},
+"url":""},
 { "name": "SONY TEN 1",
         "id": "1006",
         "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "category": "khel",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png",
-"url":"https://tv4wav.pages.dev/?app=toffee&id=sony_sports_1_hd"},
+"url":""},
 
 {
         "name": "SonyLiv Hindi",
@@ -26,25 +26,25 @@
         "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "category": "khel",
         "logo": "https://static.vecteezy.com/system/resources/previews/075/195/417/non_2x/sony-liv-logo-rounded-glossy-icon-with-transparent-background-free-png.png",
-        "url": "https://tv4wav.pages.dev/?app=jiohd&id=33744"
+        "url": ""
     },
 
 
        
 
 { "name": "SONYLiv Eng",
-        "id": "1003https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/YBJOQOntc7YIRmGwbU3H7G7CwTat101OnukZFLjlUSDuawelV4IFpoy1Km6qoT01nYuz7D2243ZUICGVICj500aP9nBnRBBeM7F/rendition.m3u8?cdn=fastly&expires=1787547600&live=1&skid=default&signature=NmE4YmNmZDBfN2ViNjRlMWY5MzRkZWY0MjNlOWNlOWJiYTkyNGQwYzc0NjQxZDI3OGVkN2Q3N2NiYTliMTRmNjhiYWZhMjRkOA==&_HLS_msn=374&_HLS_part=1",
+        "id": "1003",
         "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "category": "khel",
         "logo": "https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/general_content/PGT_1343_1.png",
-        "url": "https://tv4wav.pages.dev/?app=jiohd&id=33722"
+        "url": ""
     },
 { "name": "SONY Ten 1",
         "id": "1002",
         "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "category": "khel",
         "logo": "https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/general_content/PGT_1642_1.jpg",
-        "url": "https://tv4wav.pages.dev/?app=toffee&id=sony_sports_1_hd"
+        "url": ""
     },
 
 { "name": "Star Sports 2 hindi",
@@ -52,39 +52,39 @@
         "match": "CPL  39 T20s Aug 07 - Sep 20 2026",
         "category": "khel",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxayrMaD6F7l3HhuaunkJGvbh2yHCKjGPuQj4OI4pJaOZRZ1zGCmtvNhc&s=10",
-        "url": "https://tv4wav.pages.dev/?app=jiohd&id=1984"
+        "url": ""
     },{ "name": "Star Sports 1 hindi",
         "id": "1000",
         "category": "khel",
         "match": "CPL  39 T20s Aug 07 - Sep 20 2026",
         "logo": "https://new.rangtv.in/upload/files/STAR%20SPORTS%201%20HINDI.webp",
-        "url": "https://tv4wav.pages.dev/?app=jiohd&id=1108"
+        "url": ""
     },
 { "name": "WILLOW TV",
         "id": "1000",
         "category": "khel",
         "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png",
-        "url": "https://tv4wav.pages.dev/?app=crichd&id=willowusa"
+        "url": ""
     },{ "name":"SKY CRICKET",
         "id": "999",
         "category": "khel",
         "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png",
-        "url": "https://tv4wav.pages.dev/?app=crichd&id=skyscric"
+        "url": ""
     },{ "name": "TEN CRICKET",
         "id": "998",
         "category": "khel",
         "match": "India tour of Sri Lanka  2 Tests Aug 07 - Aug 27",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",
-        "url": "https://tv4wav.pages.dev/?app=toffee&id=ten_cricket"
+        "url": ""
     },
 { "name": "TEN SPORTS",
         "id": "998",
         "category": "khel",
         "match": "",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png",
-        "url": "https://tv4wav.pages.dev/?app=crichd&id=tenspk"
+        "url": ""
     }
 
 
