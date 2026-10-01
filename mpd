@@ -1,4 +1,28 @@
 [
+
+
+
+  {
+    "name": "Unite8 Sports 1",
+    "id": "unite8one",
+    "match": "",
+    "category": "",
+    "keyId": "d0c9217948b3862bd30a811f0301d794",
+    "key": "92418461c8f54fa89db36328d4003993",
+    "logo": "",
+    "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd"
+  },
+
+  {
+    "name": "Unite8 Sports 2",
+    "id": "unite8two",
+    "match": "",
+    "category": "",
+    "keyId": "2f55e6ba8a8249f2af86ba47e61dc5c0",
+    "key": "bbcb032ddbe94ae009a1d087e6ddd579",
+    "logo": "",
+    "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd"
+  },
   {
     "name": "Bein Sports 1 AU",
     "id": "bein1",
