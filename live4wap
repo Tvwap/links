@@ -1,34 +1,39 @@
 {
-  "id1": "https://xyz.com/.stream.m3u8?id={val}",
-    "ch": [
-    { "play": "1", "id": "2011671", "id1": "1000009246", "id2": "sethd", "name": "SETHD" },
-    { "play": "2", "id": "2011749", "id1": "1000009248", "id2": "sabhd", "name": "SABHD" },
-    { "play": "3", "id": "2011740", "id1": "1000009259", "id2": "marathi", "name": "SonyMarathi" },
-    { "play": "4", "id": "2011741", "id1": "1000009273", "id2": "pal", "name": "SonyPalSD" },
-    { "play": "5", "id": "2011641", "id1": "1000009255", "id2": "aath", "name": "SonyAathSD" },
-    { "play": "6", "id": "2011746", "id1": "1000001971", "id2": "yay", "name": "SonyYaySD" },
-    { "play": "7", "id": "2011670", "id1": "1000009247", "id2": "maxhd", "name": "SonyMaxhd" },
-    { "play": "8", "id": "2011745", "id1": "1000009249", "id2": "max", "name": "SonyMaxSD" },
-    { "play": "9", "id": "2011906", "id1": "1000009253", "id2": "wah", "name": "SonyWah" },
-    { "play": "10", "id": "2011908", "id1": "1000044878", "id2": "max2", "name": "MAX2" },
-    { "play": "11", "id": "2011748", "id1": "1000009258", "id2": "pixhd", "name": "PIXHD" },
-    { "play": "12", "id": "2011747", "id1": "1000009276", "id2": "ten1hd", "name": "TEN1HD" },
-    { "play": "13", "id": "2011739", "id1": "1000009280", "id2": "ten1", "name": "TEN1SD" },
-    { "play": "14", "id": "2020434", "id1": "1000009277", "id2": "ten2hd", "name": "TEN2HD" },
-    { "play": "15", "id": "2020590", "id1": "1000009279", "id2": "ten2", "name": "TEN2SD" },
-    { "play": "16", "id": "2020591", "id1": "1000009278", "id2": "ten3hd", "name": "TEN3HD" },
-    { "play": "17", "id": "2020592", "id1": "1000009283", "id2": "ten3", "name": "TEN3SD" },
-    { "play": "18", "id": "2020589", "id1": "1000119186", "id2": "ten4hd", "name": "ten4hd" },
-    { "play": "19", "id": "2020437", "id1": "1000119187", "id2": "ten4", "name": "ten4sd" },
-    { "play": "20", "id": "2020593", "id1": "1000009281", "id2": "ten5hd", "name": "SONYSIXHD" },
-    { "play": "21", "id": "2020594", "id1": "1000009281", "id2": "ten5", "name": "SONYSIXSD" },
-    { "play": "22", "id": "2011907", "id1": "821", "id2": "bbcearthhd", "name": "SonyBBCEarthHD" }
+  "cookie_proxy": "https://tv1.wapgotube.workers.dev/proxy/proxy/",
+  "sources": [
+    "https://allinonereborn2.online/sony-new/playlists/sony_hd.m3u8",
+"https://webiptv.site/api/rtgx"
+    
   ],
   "cookie": [
     {
-      "cookie": "hdntl=exp=1789722015~acl=%2f*~id=59c07001-f351-4f77-96e8-a8f463607764~data=hdntl~hmac=0456d5bf1db39368643a1e5f3c1ad5767bff7e7b82a28c075c4dc34b31bda14e/"
+      "cookie": "hdntl=exp=1790910954~acl=%2f*~id=faac6a51-8551-45cd-93a5-ab77e17c2de4~data=hdntl~hmac=42ffed9d87dcc8e9f9720b799383e6f2f1ff74bb9c2f4f117b61343c15410a0d/"
     }
   ],
-  "proxy": "https://crickcast-fam.pages.dev/api/proxy?u=",
-  "id": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=208208,RESOLUTION=256x144\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_108.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=356224,RESOLUTION=384x216\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_224.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=596112,RESOLUTION=512x288\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_412.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=917664,RESOLUTION=640x360\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_664.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1218800,RESOLUTION=960x540\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_900.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1799600,RESOLUTION=1280x720\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_1300.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2692800,RESOLUTION=1280x720\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_2000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=4571600,RESOLUTION=1920x1080\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_3500.m3u8"
+  "proxy": "https://sonyliv-beta.lovable.app/api/public/px/sony?url=",
+  "id": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=208208,RESOLUTION=256x144\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_108.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=356224,RESOLUTION=384x216\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_224.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=596112,RESOLUTION=512x288\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_412.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=917664,RESOLUTION=640x360\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_664.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1218800,RESOLUTION=960x540\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_900.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1799600,RESOLUTION=1280x720\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_1300.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2692800,RESOLUTION=1280x720\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_2000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=4571600,RESOLUTION=1920x1080\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_3500.m3u8",
+  "ch": [
+    { "play": "1", "id": "2011671", "id1": "1000009246", "id2": "sethd", "name": "SETHD", "title": "Sony HD", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" },
+    { "play": "2", "id": "2011749", "id1": "1000009248", "id2": "sabhd", "name": "SABHD", "title": "SAB HD", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" },
+    { "play": "3", "id": "2011740", "id1": "1000009259", "id2": "marathi", "name": "SonyMarathi", "title": "Sony Marathi", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" },
+    { "play": "4", "id": "2011741", "id1": "1000009273", "id2": "pal", "name": "SonyPalSD", "title": "Sony Pal", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" },
+    { "play": "5", "id": "2011641", "id1": "1000009255", "id2": "aath", "name": "SonyAathSD", "title": "Sony Aath", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png" },
+    { "play": "6", "id": "2011746", "id1": "1000001971", "id2": "yay", "name": "SonyYaySD", "title": "Sony Yay", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" },
+    { "play": "7", "id": "2011670", "id1": "1000009247", "id2": "maxhd", "name": "SonyMaxhd", "title": "Sony Max HD", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" },
+    { "play": "8", "id": "2011745", "id1": "1000009249", "id2": "max", "name": "SonyMaxSD", "title": "Sony Max", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" },
+    { "play": "9", "id": "2011906", "id1": "1000009253", "id2": "wah", "name": "SonyWah", "title": "Sony Wah", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" },
+    { "play": "10", "id": "2011908", "id1": "1000044878", "id2": "max2", "name": "MAX2", "title": "Sony MAX2", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" },
+    { "play": "11", "id": "2011748", "id1": "1000009258", "id2": "pixhd", "name": "PIXHD", "title": "Sony PIX HD", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" },
+    { "play": "12", "id": "2011747", "id1": "1000009276", "id2": "ten1hd", "name": "TEN1HD", "title": "TEN 1 HD", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" },
+    { "play": "13", "id": "2011739", "id1": "1000009280", "id2": "ten1", "name": "TEN1SD", "title": "TEN 1", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" },
+    { "play": "14", "id": "2020434", "id1": "1000009277", "id2": "ten2hd", "name": "TEN2HD", "title": "TEN 2 HD", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" },
+    { "play": "15", "id": "2020590", "id1": "1000009279", "id2": "ten2", "name": "TEN2SD", "title": "TEN 2", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" },
+    { "play": "16", "id": "2020591", "id1": "1000009278", "id2": "ten3hd", "name": "TEN3HD", "title": "TEN 3 HD", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" },
+    { "play": "17", "id": "2020592", "id1": "1000009283", "id2": "ten3", "name": "TEN3SD", "title": "TEN 3", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" },
+    { "play": "18", "id": "2020589", "id1": "1000119186", "id2": "ten4hd", "name": "ten4hd", "title": "TEN 4 HD", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" },
+    { "play": "19", "id": "2020437", "id1": "1000119187", "id2": "ten4", "name": "ten4sd", "title": "TEN 4", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" },
+    { "play": "20", "id": "2020593", "id1": "1000009281", "id2": "ten5hd", "name": "SONYSIXHD", "title": "TEN 5 HD", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" },
+    { "play": "21", "id": "2020594", "id1": "1000009281", "id2": "ten5", "name": "SONYSIXSD", "title": "TEN 5", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" },
+    { "play": "22", "id": "2011907", "id1": "821", "id2": "bbcearthhd", "name": "SonyBBCEarthHD", "title": "BBC Earth", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" }
+  ]
 }
