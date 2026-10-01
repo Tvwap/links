@@ -1,13 +1,13 @@
 {
   "cookie_proxy": "https://tv1.wapgotube.workers.dev/proxy/proxy/",
   "sources": [
-    "https://allinonereborn2.online/sony-new/playlists/sony_hd.m3u8",
+    "https://aallinonereborn2.online/sony-new/playlists/sony_hd.m3u8",
 "https://webiptv.site/api/rtgx"
     
   ],
   "cookie": [
     {
-      "cookie": "hdntl=exp=1790910954~acl=%2f*~id=faac6a51-8551-45cd-93a5-ab77e17c2de4~data=hdntl~hmac=42ffed9d87dcc8e9f9720b799383e6f2f1ff74bb9c2f4f117b61343c15410a0d/"
+      "cookie": "hdntl=exp=1790910954~acl=%2f*~id=faac6a51-8551-45cd-93a5-ab77e17c2de4~data=hdntl~hmac=42ffed9d87dcc8e9f9720b799383e6f2f1ff74bb9c2f4f117b61343c15410a0dd/"
     }
   ],
   "proxy": "https://sonyliv-beta.lovable.app/api/public/px/sony?url=",
