@@ -1,9 +1,9 @@
 {
   "cookie_proxy": "https://tv1.ashoktyar1.workers.dev/proxy/",
-  "sources": ["https://webiptv.site/api/rtgx",
-"https://allinonereborn2.online/sony-new/playlists/sony_hd.m3u8"],
+  "sources": ["",
+""],
 
-  "cookie": [{ "cookie": ""  }],
+  "cookie": [{ "cookie": "hdntl=exp=1791043237~acl=%2f*~id=cb880eb6-0973-47e3-8e8b-521278590954~data=hdntl~hmac=4b7da45ce055b3395032417a8aec0ba60b30bbe6fa5ed95b6c20dbbee5511090/"  }],
 
   "proxy": "https://sunny-relay-friend.lovable.app/api/public/px/sony?url=",
   "id": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=208208,RESOLUTION=256x144\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_108.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=356224,RESOLUTION=384x216\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_224.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=596112,RESOLUTION=512x288\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_412.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=917664,RESOLUTION=640x360\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_664.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1218800,RESOLUTION=960x540\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_900.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1799600,RESOLUTION=1280x720\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_1300.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2692800,RESOLUTION=1280x720\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_2000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=4571600,RESOLUTION=1920x1080\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_3500.m3u8",
