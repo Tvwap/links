@@ -1,7 +1,6 @@
 {
   "cookie_proxy": "",
-  "sources": ["",
-""],
+  "sources": [""],
 
   "cookie": [{ "cookie": "hdntl=exp=1792728012~acl=%2f*~id=792bd758-f743-4875-90a5-9bba0b2bb9f0~data=hdntl~hmac=26665d542b95486581cd67c6b15a50ac656f927fb3f0ddaa1a03c4aa4f38529e/"  }],
 
