@@ -2,7 +2,7 @@
   "cookie_proxy": "",
   "sources": [""],
 
-  "cookie": [{ "cookie": "hdntl=exp=1793163646~acl=%2f*~id=8aba22d3-244d-4f4d-9046-cb65bf010ec7~data=hdntl~hmac=e25aa27ca0b92502f9d6b816b8d40482d36e28c528e8a4d3dfa6f2db8f67dcdd/"  }],
+  "cookie": [{ "cookie": "hdntl=exp=1793386812~acl=%2f*~id=2b19723d-de2a-4547-9777-fd3028845dc8~data=hdntl~hmac=8547f24b5073bfca1da696821b285350b6fde5946cbecce4b1d6426c68f04a11/"  }],
 
   "proxy": "",
   "id": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=208208,RESOLUTION=256x144\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_108.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=356224,RESOLUTION=384x216\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_224.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=596112,RESOLUTION=512x288\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_412.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=917664,RESOLUTION=640x360\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_664.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1218800,RESOLUTION=960x540\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_900.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1799600,RESOLUTION=1280x720\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_1300.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2692800,RESOLUTION=1280x720\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_2000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=4571600,RESOLUTION=1920x1080\nhttps://dishmt.slivcdn.com/hls/live/{A}/{B}/{C}master_3500.m3u8",
